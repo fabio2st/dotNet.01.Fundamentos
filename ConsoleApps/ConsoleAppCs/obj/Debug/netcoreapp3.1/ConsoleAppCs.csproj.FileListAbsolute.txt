@@ -1,0 +1,13 @@
+E:\Development\visual studio 2019\Programacion2\2020\ConsoleApps\ConsoleAppCs\bin\Debug\netcoreapp3.1\ConsoleAppCs.exe
+E:\Development\visual studio 2019\Programacion2\2020\ConsoleApps\ConsoleAppCs\bin\Debug\netcoreapp3.1\ConsoleAppCs.deps.json
+E:\Development\visual studio 2019\Programacion2\2020\ConsoleApps\ConsoleAppCs\bin\Debug\netcoreapp3.1\ConsoleAppCs.runtimeconfig.json
+E:\Development\visual studio 2019\Programacion2\2020\ConsoleApps\ConsoleAppCs\bin\Debug\netcoreapp3.1\ConsoleAppCs.runtimeconfig.dev.json
+E:\Development\visual studio 2019\Programacion2\2020\ConsoleApps\ConsoleAppCs\bin\Debug\netcoreapp3.1\ConsoleAppCs.dll
+E:\Development\visual studio 2019\Programacion2\2020\ConsoleApps\ConsoleAppCs\bin\Debug\netcoreapp3.1\ConsoleAppCs.pdb
+E:\Development\visual studio 2019\Programacion2\2020\ConsoleApps\ConsoleAppCs\obj\Debug\netcoreapp3.1\ConsoleAppCs.csprojAssemblyReference.cache
+E:\Development\visual studio 2019\Programacion2\2020\ConsoleApps\ConsoleAppCs\obj\Debug\netcoreapp3.1\ConsoleAppCs.csproj.CoreCompileInputs.cache
+E:\Development\visual studio 2019\Programacion2\2020\ConsoleApps\ConsoleAppCs\obj\Debug\netcoreapp3.1\ConsoleAppCs.AssemblyInfoInputs.cache
+E:\Development\visual studio 2019\Programacion2\2020\ConsoleApps\ConsoleAppCs\obj\Debug\netcoreapp3.1\ConsoleAppCs.AssemblyInfo.cs
+E:\Development\visual studio 2019\Programacion2\2020\ConsoleApps\ConsoleAppCs\obj\Debug\netcoreapp3.1\ConsoleAppCs.dll
+E:\Development\visual studio 2019\Programacion2\2020\ConsoleApps\ConsoleAppCs\obj\Debug\netcoreapp3.1\ConsoleAppCs.pdb
+E:\Development\visual studio 2019\Programacion2\2020\ConsoleApps\ConsoleAppCs\obj\Debug\netcoreapp3.1\ConsoleAppCs.genruntimeconfig.cache

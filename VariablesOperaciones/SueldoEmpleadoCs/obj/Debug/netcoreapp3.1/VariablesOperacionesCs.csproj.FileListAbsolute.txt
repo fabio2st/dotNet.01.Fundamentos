@@ -1,0 +1,13 @@
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\VariablesOperacionesCs\bin\Debug\netcoreapp3.1\VariablesOperacionesCs.exe
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\VariablesOperacionesCs\bin\Debug\netcoreapp3.1\VariablesOperacionesCs.deps.json
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\VariablesOperacionesCs\bin\Debug\netcoreapp3.1\VariablesOperacionesCs.runtimeconfig.json
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\VariablesOperacionesCs\bin\Debug\netcoreapp3.1\VariablesOperacionesCs.runtimeconfig.dev.json
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\VariablesOperacionesCs\bin\Debug\netcoreapp3.1\VariablesOperacionesCs.dll
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\VariablesOperacionesCs\bin\Debug\netcoreapp3.1\VariablesOperacionesCs.pdb
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\VariablesOperacionesCs\obj\Debug\netcoreapp3.1\VariablesOperacionesCs.csprojAssemblyReference.cache
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\VariablesOperacionesCs\obj\Debug\netcoreapp3.1\VariablesOperacionesCs.csproj.CoreCompileInputs.cache
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\VariablesOperacionesCs\obj\Debug\netcoreapp3.1\VariablesOperacionesCs.AssemblyInfoInputs.cache
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\VariablesOperacionesCs\obj\Debug\netcoreapp3.1\VariablesOperacionesCs.AssemblyInfo.cs
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\VariablesOperacionesCs\obj\Debug\netcoreapp3.1\VariablesOperacionesCs.dll
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\VariablesOperacionesCs\obj\Debug\netcoreapp3.1\VariablesOperacionesCs.pdb
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\VariablesOperacionesCs\obj\Debug\netcoreapp3.1\VariablesOperacionesCs.genruntimeconfig.cache

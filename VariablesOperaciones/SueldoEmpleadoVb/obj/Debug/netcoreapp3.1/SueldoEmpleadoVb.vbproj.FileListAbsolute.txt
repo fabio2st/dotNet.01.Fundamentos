@@ -1,0 +1,13 @@
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\SueldoEmpleadoVb\bin\Debug\netcoreapp3.1\SueldoEmpleadoVb.exe
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\SueldoEmpleadoVb\bin\Debug\netcoreapp3.1\SueldoEmpleadoVb.deps.json
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\SueldoEmpleadoVb\bin\Debug\netcoreapp3.1\SueldoEmpleadoVb.runtimeconfig.json
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\SueldoEmpleadoVb\bin\Debug\netcoreapp3.1\SueldoEmpleadoVb.runtimeconfig.dev.json
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\SueldoEmpleadoVb\bin\Debug\netcoreapp3.1\SueldoEmpleadoVb.dll
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\SueldoEmpleadoVb\bin\Debug\netcoreapp3.1\SueldoEmpleadoVb.pdb
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\SueldoEmpleadoVb\obj\Debug\netcoreapp3.1\SueldoEmpleadoVb.vbproj.CoreCompileInputs.cache
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\SueldoEmpleadoVb\obj\Debug\netcoreapp3.1\SueldoEmpleadoVb.AssemblyInfoInputs.cache
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\SueldoEmpleadoVb\obj\Debug\netcoreapp3.1\SueldoEmpleadoVb.AssemblyInfo.vb
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\SueldoEmpleadoVb\obj\Debug\netcoreapp3.1\SueldoEmpleadoVb.dll
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\SueldoEmpleadoVb\obj\Debug\netcoreapp3.1\SueldoEmpleadoVb.pdb
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\SueldoEmpleadoVb\obj\Debug\netcoreapp3.1\SueldoEmpleadoVb.genruntimeconfig.cache
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\SueldoEmpleadoVb\obj\Debug\netcoreapp3.1\SueldoEmpleadoVb.vbprojAssemblyReference.cache
