@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Development\\visual studio 2019\\Programacion2\\2020\\VariablesOperaciones\\SueldoEmpleadoCs\\SueldoEmpleadoCs.csproj",
+      "projectUniqueName": "E:\\Development\\visual studio 2019\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\SueldoEmpleadoCs\\SueldoEmpleadoCs.csproj",
       "projectName": "SueldoEmpleadoCs",
-      "projectPath": "E:\\Development\\visual studio 2019\\Programacion2\\2020\\VariablesOperaciones\\SueldoEmpleadoCs\\SueldoEmpleadoCs.csproj",
+      "projectPath": "E:\\Development\\visual studio 2019\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\SueldoEmpleadoCs\\SueldoEmpleadoCs.csproj",
       "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-      "outputPath": "E:\\Development\\visual studio 2019\\Programacion2\\2020\\VariablesOperaciones\\SueldoEmpleadoCs\\obj\\",
+      "outputPath": "E:\\Development\\visual studio 2019\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\SueldoEmpleadoCs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

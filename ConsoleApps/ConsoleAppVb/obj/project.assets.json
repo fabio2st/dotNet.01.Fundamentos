@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Development\\visual studio 2019\\Programacion2\\2020\\ConsoleApps\\ConsoleAppVb\\ConsoleAppVb.vbproj",
+      "projectUniqueName": "E:\\Development\\visual studio 2019\\Programacion2\\PG2-S20-E02\\ConsoleApps\\ConsoleAppVb\\ConsoleAppVb.vbproj",
       "projectName": "ConsoleAppVb",
-      "projectPath": "E:\\Development\\visual studio 2019\\Programacion2\\2020\\ConsoleApps\\ConsoleAppVb\\ConsoleAppVb.vbproj",
+      "projectPath": "E:\\Development\\visual studio 2019\\Programacion2\\PG2-S20-E02\\ConsoleApps\\ConsoleAppVb\\ConsoleAppVb.vbproj",
       "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-      "outputPath": "E:\\Development\\visual studio 2019\\Programacion2\\2020\\ConsoleApps\\ConsoleAppVb\\obj\\",
+      "outputPath": "E:\\Development\\visual studio 2019\\Programacion2\\PG2-S20-E02\\ConsoleApps\\ConsoleAppVb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Development\\visual studio 2019\\Programacion2\\2020\\ConsoleApps\\ConsoleAppCs\\ConsoleAppCs.csproj": {}
+    "E:\\Development\\visual studio 2019\\Programacion2\\PG2-S20-E02\\ConsoleApps\\ConsoleAppCs\\ConsoleAppCs.csproj": {}
   },
   "projects": {
-    "E:\\Development\\visual studio 2019\\Programacion2\\2020\\ConsoleApps\\ConsoleAppCs\\ConsoleAppCs.csproj": {
+    "E:\\Development\\visual studio 2019\\Programacion2\\PG2-S20-E02\\ConsoleApps\\ConsoleAppCs\\ConsoleAppCs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Development\\visual studio 2019\\Programacion2\\2020\\ConsoleApps\\ConsoleAppCs\\ConsoleAppCs.csproj",
+        "projectUniqueName": "E:\\Development\\visual studio 2019\\Programacion2\\PG2-S20-E02\\ConsoleApps\\ConsoleAppCs\\ConsoleAppCs.csproj",
         "projectName": "ConsoleAppCs",
-        "projectPath": "E:\\Development\\visual studio 2019\\Programacion2\\2020\\ConsoleApps\\ConsoleAppCs\\ConsoleAppCs.csproj",
+        "projectPath": "E:\\Development\\visual studio 2019\\Programacion2\\PG2-S20-E02\\ConsoleApps\\ConsoleAppCs\\ConsoleAppCs.csproj",
         "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-        "outputPath": "E:\\Development\\visual studio 2019\\Programacion2\\2020\\ConsoleApps\\ConsoleAppCs\\obj\\",
+        "outputPath": "E:\\Development\\visual studio 2019\\Programacion2\\PG2-S20-E02\\ConsoleApps\\ConsoleAppCs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
