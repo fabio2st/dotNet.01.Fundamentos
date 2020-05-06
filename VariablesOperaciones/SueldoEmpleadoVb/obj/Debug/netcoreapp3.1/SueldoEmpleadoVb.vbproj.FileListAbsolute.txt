@@ -24,3 +24,16 @@ E:\Development\visual studio 2019\Programacion2\PG2-S20-E02\VariablesOperaciones
 E:\Development\visual studio 2019\Programacion2\PG2-S20-E02\VariablesOperaciones\SueldoEmpleadoVb\obj\Debug\netcoreapp3.1\SueldoEmpleadoVb.dll
 E:\Development\visual studio 2019\Programacion2\PG2-S20-E02\VariablesOperaciones\SueldoEmpleadoVb\obj\Debug\netcoreapp3.1\SueldoEmpleadoVb.pdb
 E:\Development\visual studio 2019\Programacion2\PG2-S20-E02\VariablesOperaciones\SueldoEmpleadoVb\obj\Debug\netcoreapp3.1\SueldoEmpleadoVb.genruntimeconfig.cache
+E:\Development\visual studio 2019\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\SueldoEmpleadoVb\bin\Debug\netcoreapp3.1\SueldoEmpleadoVb.exe
+E:\Development\visual studio 2019\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\SueldoEmpleadoVb\bin\Debug\netcoreapp3.1\SueldoEmpleadoVb.deps.json
+E:\Development\visual studio 2019\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\SueldoEmpleadoVb\bin\Debug\netcoreapp3.1\SueldoEmpleadoVb.runtimeconfig.json
+E:\Development\visual studio 2019\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\SueldoEmpleadoVb\bin\Debug\netcoreapp3.1\SueldoEmpleadoVb.runtimeconfig.dev.json
+E:\Development\visual studio 2019\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\SueldoEmpleadoVb\bin\Debug\netcoreapp3.1\SueldoEmpleadoVb.dll
+E:\Development\visual studio 2019\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\SueldoEmpleadoVb\bin\Debug\netcoreapp3.1\SueldoEmpleadoVb.pdb
+E:\Development\visual studio 2019\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\SueldoEmpleadoVb\obj\Debug\netcoreapp3.1\SueldoEmpleadoVb.vbprojAssemblyReference.cache
+E:\Development\visual studio 2019\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\SueldoEmpleadoVb\obj\Debug\netcoreapp3.1\SueldoEmpleadoVb.vbproj.CoreCompileInputs.cache
+E:\Development\visual studio 2019\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\SueldoEmpleadoVb\obj\Debug\netcoreapp3.1\SueldoEmpleadoVb.AssemblyInfoInputs.cache
+E:\Development\visual studio 2019\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\SueldoEmpleadoVb\obj\Debug\netcoreapp3.1\SueldoEmpleadoVb.AssemblyInfo.vb
+E:\Development\visual studio 2019\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\SueldoEmpleadoVb\obj\Debug\netcoreapp3.1\SueldoEmpleadoVb.dll
+E:\Development\visual studio 2019\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\SueldoEmpleadoVb\obj\Debug\netcoreapp3.1\SueldoEmpleadoVb.pdb
+E:\Development\visual studio 2019\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\SueldoEmpleadoVb\obj\Debug\netcoreapp3.1\SueldoEmpleadoVb.genruntimeconfig.cache
