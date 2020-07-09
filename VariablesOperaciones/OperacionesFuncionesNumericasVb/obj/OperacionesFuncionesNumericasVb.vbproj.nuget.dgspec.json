@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Development\\visual studio 2019\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\OperacionesFuncionesNumericasVb\\OperacionesFuncionesNumericasVb.vbproj": {}
+    "E:\\Classroom\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\OperacionesFuncionesNumericasVb\\OperacionesFuncionesNumericasVb.vbproj": {}
   },
   "projects": {
-    "E:\\Development\\visual studio 2019\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\OperacionesFuncionesNumericasVb\\OperacionesFuncionesNumericasVb.vbproj": {
+    "E:\\Classroom\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\OperacionesFuncionesNumericasVb\\OperacionesFuncionesNumericasVb.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Development\\visual studio 2019\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\OperacionesFuncionesNumericasVb\\OperacionesFuncionesNumericasVb.vbproj",
+        "projectUniqueName": "E:\\Classroom\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\OperacionesFuncionesNumericasVb\\OperacionesFuncionesNumericasVb.vbproj",
         "projectName": "OperacionesFuncionesNumericasVb",
-        "projectPath": "E:\\Development\\visual studio 2019\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\OperacionesFuncionesNumericasVb\\OperacionesFuncionesNumericasVb.vbproj",
+        "projectPath": "E:\\Classroom\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\OperacionesFuncionesNumericasVb\\OperacionesFuncionesNumericasVb.vbproj",
         "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-        "outputPath": "E:\\Development\\visual studio 2019\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\OperacionesFuncionesNumericasVb\\obj\\",
+        "outputPath": "E:\\Classroom\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\OperacionesFuncionesNumericasVb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

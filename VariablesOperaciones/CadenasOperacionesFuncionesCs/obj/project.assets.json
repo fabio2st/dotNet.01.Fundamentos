@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Development\\visual studio 2019\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\CadenasOperacionesFuncionesCs\\CadenasOperacionesFuncionesCs.csproj",
+      "projectUniqueName": "E:\\Classroom\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\CadenasOperacionesFuncionesCs\\CadenasOperacionesFuncionesCs.csproj",
       "projectName": "CadenasOperacionesFuncionesCs",
-      "projectPath": "E:\\Development\\visual studio 2019\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\CadenasOperacionesFuncionesCs\\CadenasOperacionesFuncionesCs.csproj",
+      "projectPath": "E:\\Classroom\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\CadenasOperacionesFuncionesCs\\CadenasOperacionesFuncionesCs.csproj",
       "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-      "outputPath": "E:\\Development\\visual studio 2019\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\CadenasOperacionesFuncionesCs\\obj\\",
+      "outputPath": "E:\\Classroom\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\CadenasOperacionesFuncionesCs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

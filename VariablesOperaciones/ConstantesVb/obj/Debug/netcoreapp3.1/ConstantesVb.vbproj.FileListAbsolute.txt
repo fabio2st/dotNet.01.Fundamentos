@@ -1,0 +1,12 @@
+E:\Classroom\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\ConstantesVb\bin\Debug\netcoreapp3.1\ConstantesVb.exe
+E:\Classroom\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\ConstantesVb\bin\Debug\netcoreapp3.1\ConstantesVb.deps.json
+E:\Classroom\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\ConstantesVb\bin\Debug\netcoreapp3.1\ConstantesVb.runtimeconfig.json
+E:\Classroom\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\ConstantesVb\bin\Debug\netcoreapp3.1\ConstantesVb.runtimeconfig.dev.json
+E:\Classroom\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\ConstantesVb\bin\Debug\netcoreapp3.1\ConstantesVb.dll
+E:\Classroom\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\ConstantesVb\bin\Debug\netcoreapp3.1\ConstantesVb.pdb
+E:\Classroom\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\ConstantesVb\obj\Debug\netcoreapp3.1\ConstantesVb.vbproj.CoreCompileInputs.cache
+E:\Classroom\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\ConstantesVb\obj\Debug\netcoreapp3.1\ConstantesVb.AssemblyInfoInputs.cache
+E:\Classroom\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\ConstantesVb\obj\Debug\netcoreapp3.1\ConstantesVb.AssemblyInfo.vb
+E:\Classroom\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\ConstantesVb\obj\Debug\netcoreapp3.1\ConstantesVb.dll
+E:\Classroom\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\ConstantesVb\obj\Debug\netcoreapp3.1\ConstantesVb.pdb
+E:\Classroom\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\ConstantesVb\obj\Debug\netcoreapp3.1\ConstantesVb.genruntimeconfig.cache

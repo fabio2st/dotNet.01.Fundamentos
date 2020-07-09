@@ -37,3 +37,16 @@ E:\Development\visual studio 2019\Programacion2\PG2-S20-E02 demos\VariablesOpera
 E:\Development\visual studio 2019\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\SueldoEmpleadoVb\obj\Debug\netcoreapp3.1\SueldoEmpleadoVb.dll
 E:\Development\visual studio 2019\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\SueldoEmpleadoVb\obj\Debug\netcoreapp3.1\SueldoEmpleadoVb.pdb
 E:\Development\visual studio 2019\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\SueldoEmpleadoVb\obj\Debug\netcoreapp3.1\SueldoEmpleadoVb.genruntimeconfig.cache
+E:\Classroom\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\SueldoEmpleadoVb\bin\Debug\netcoreapp3.1\SueldoEmpleadoVb.exe
+E:\Classroom\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\SueldoEmpleadoVb\bin\Debug\netcoreapp3.1\SueldoEmpleadoVb.deps.json
+E:\Classroom\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\SueldoEmpleadoVb\bin\Debug\netcoreapp3.1\SueldoEmpleadoVb.runtimeconfig.json
+E:\Classroom\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\SueldoEmpleadoVb\bin\Debug\netcoreapp3.1\SueldoEmpleadoVb.runtimeconfig.dev.json
+E:\Classroom\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\SueldoEmpleadoVb\bin\Debug\netcoreapp3.1\SueldoEmpleadoVb.dll
+E:\Classroom\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\SueldoEmpleadoVb\bin\Debug\netcoreapp3.1\SueldoEmpleadoVb.pdb
+E:\Classroom\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\SueldoEmpleadoVb\obj\Debug\netcoreapp3.1\SueldoEmpleadoVb.vbprojAssemblyReference.cache
+E:\Classroom\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\SueldoEmpleadoVb\obj\Debug\netcoreapp3.1\SueldoEmpleadoVb.vbproj.CoreCompileInputs.cache
+E:\Classroom\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\SueldoEmpleadoVb\obj\Debug\netcoreapp3.1\SueldoEmpleadoVb.AssemblyInfoInputs.cache
+E:\Classroom\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\SueldoEmpleadoVb\obj\Debug\netcoreapp3.1\SueldoEmpleadoVb.AssemblyInfo.vb
+E:\Classroom\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\SueldoEmpleadoVb\obj\Debug\netcoreapp3.1\SueldoEmpleadoVb.dll
+E:\Classroom\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\SueldoEmpleadoVb\obj\Debug\netcoreapp3.1\SueldoEmpleadoVb.pdb
+E:\Classroom\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\SueldoEmpleadoVb\obj\Debug\netcoreapp3.1\SueldoEmpleadoVb.genruntimeconfig.cache
