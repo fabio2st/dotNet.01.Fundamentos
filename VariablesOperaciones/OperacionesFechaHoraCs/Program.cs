@@ -12,8 +12,8 @@ namespace OperacionesFechaHoraCs
             var dateTime = new DateTime(2020, 8, 1, 20, 24, 52);
             Console.WriteLine("Fecha hora: " + dateTime);
             var dateTimeDefault = new DateTime();
-            // asignación de valor
             Console.WriteLine("Fecha hora pedeterminada: " + dateTimeDefault);
+            // asignación de valor
             DateTime dateNow = DateTime.Now;
             Console.WriteLine("Fecha hora ahora: " + dateNow);
             DateTime dateUtc = DateTime.UtcNow;
@@ -37,14 +37,13 @@ namespace OperacionesFechaHoraCs
             Console.WriteLine("Día del año: " + DateTime.Now.DayOfYear);
             // Metodos
             int dias = 60;
-            Console.WriteLine("{0} días despues es: {1}" + dateISO8602.AddDays(dias));
-            Console.WriteLine("{0} días antes es: {1}" + dateISO8602.AddDays(-dias));
-            Console.WriteLine("Compara {0} y {1}: {2}", dateNow, dateISO8602, dateISO8602.CompareTo(dateNow));
+            Console.WriteLine("{0} días despues es: {1}", dias, dateISO8602.AddDays(dias));
+            Console.WriteLine("{0} días antes es: {1}", dias, dateISO8602.AddDays(-dias));
+            Console.WriteLine("Compara {0} y {1}: {2}", dateISO8602, dateNow, dateISO8602.CompareTo(dateNow));
 
             // Calcular el intervalo entre dos fechas dates.
             TimeSpan intervalo = dateISO8602 - dateNow;
             Console.WriteLine("{0} - {1} = {2}", dateISO8602, dateNow, intervalo.ToString());
-
             Console.WriteLine("Intervalo de dias: " + intervalo.Days);
             Console.WriteLine("Intervalo de horas: " + intervalo.Hours);
             Console.WriteLine("Intervalo total de Horas: " + intervalo.TotalHours);
