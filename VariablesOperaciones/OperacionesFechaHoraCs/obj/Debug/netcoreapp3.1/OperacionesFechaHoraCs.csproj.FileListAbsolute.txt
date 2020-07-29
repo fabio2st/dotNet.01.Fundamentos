@@ -1,0 +1,13 @@
+E:\Classroom\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\OperacionesFechaHoraCs\obj\Debug\netcoreapp3.1\OperacionesFechaHoraCs.csprojAssemblyReference.cache
+E:\Classroom\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\OperacionesFechaHoraCs\obj\Debug\netcoreapp3.1\OperacionesFechaHoraCs.AssemblyInfoInputs.cache
+E:\Classroom\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\OperacionesFechaHoraCs\obj\Debug\netcoreapp3.1\OperacionesFechaHoraCs.AssemblyInfo.cs
+E:\Classroom\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\OperacionesFechaHoraCs\obj\Debug\netcoreapp3.1\OperacionesFechaHoraCs.csproj.CoreCompileInputs.cache
+E:\Classroom\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\OperacionesFechaHoraCs\bin\Debug\netcoreapp3.1\OperacionesFechaHoraCs.exe
+E:\Classroom\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\OperacionesFechaHoraCs\bin\Debug\netcoreapp3.1\OperacionesFechaHoraCs.deps.json
+E:\Classroom\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\OperacionesFechaHoraCs\bin\Debug\netcoreapp3.1\OperacionesFechaHoraCs.runtimeconfig.json
+E:\Classroom\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\OperacionesFechaHoraCs\bin\Debug\netcoreapp3.1\OperacionesFechaHoraCs.runtimeconfig.dev.json
+E:\Classroom\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\OperacionesFechaHoraCs\bin\Debug\netcoreapp3.1\OperacionesFechaHoraCs.dll
+E:\Classroom\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\OperacionesFechaHoraCs\bin\Debug\netcoreapp3.1\OperacionesFechaHoraCs.pdb
+E:\Classroom\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\OperacionesFechaHoraCs\obj\Debug\netcoreapp3.1\OperacionesFechaHoraCs.dll
+E:\Classroom\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\OperacionesFechaHoraCs\obj\Debug\netcoreapp3.1\OperacionesFechaHoraCs.pdb
+E:\Classroom\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\OperacionesFechaHoraCs\obj\Debug\netcoreapp3.1\OperacionesFechaHoraCs.genruntimeconfig.cache
