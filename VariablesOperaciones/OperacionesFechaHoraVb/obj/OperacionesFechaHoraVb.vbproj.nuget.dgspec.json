@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Classroom\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\OperacionesFechaHoraVb\\OperacionesFechaHoraVb.vbproj": {}
+    "E:\\Classroom\\Programación II\\Ejemplos\\S20.PG2.2.Fundamentos\\VariablesOperaciones\\OperacionesFechaHoraVb\\OperacionesFechaHoraVb.vbproj": {}
   },
   "projects": {
-    "E:\\Classroom\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\OperacionesFechaHoraVb\\OperacionesFechaHoraVb.vbproj": {
+    "E:\\Classroom\\Programación II\\Ejemplos\\S20.PG2.2.Fundamentos\\VariablesOperaciones\\OperacionesFechaHoraVb\\OperacionesFechaHoraVb.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Classroom\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\OperacionesFechaHoraVb\\OperacionesFechaHoraVb.vbproj",
+        "projectUniqueName": "E:\\Classroom\\Programación II\\Ejemplos\\S20.PG2.2.Fundamentos\\VariablesOperaciones\\OperacionesFechaHoraVb\\OperacionesFechaHoraVb.vbproj",
         "projectName": "OperacionesFechaHoraVb",
-        "projectPath": "E:\\Classroom\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\OperacionesFechaHoraVb\\OperacionesFechaHoraVb.vbproj",
+        "projectPath": "E:\\Classroom\\Programación II\\Ejemplos\\S20.PG2.2.Fundamentos\\VariablesOperaciones\\OperacionesFechaHoraVb\\OperacionesFechaHoraVb.vbproj",
         "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-        "outputPath": "E:\\Classroom\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\OperacionesFechaHoraVb\\obj\\",
+        "outputPath": "E:\\Classroom\\Programación II\\Ejemplos\\S20.PG2.2.Fundamentos\\VariablesOperaciones\\OperacionesFechaHoraVb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

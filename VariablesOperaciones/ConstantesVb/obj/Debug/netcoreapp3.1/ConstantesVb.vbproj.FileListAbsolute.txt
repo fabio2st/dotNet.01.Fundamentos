@@ -10,3 +10,15 @@ E:\Classroom\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\ConstantesVb\o
 E:\Classroom\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\ConstantesVb\obj\Debug\netcoreapp3.1\ConstantesVb.dll
 E:\Classroom\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\ConstantesVb\obj\Debug\netcoreapp3.1\ConstantesVb.pdb
 E:\Classroom\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\ConstantesVb\obj\Debug\netcoreapp3.1\ConstantesVb.genruntimeconfig.cache
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\ConstantesVb\bin\Debug\netcoreapp3.1\ConstantesVb.exe
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\ConstantesVb\bin\Debug\netcoreapp3.1\ConstantesVb.deps.json
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\ConstantesVb\bin\Debug\netcoreapp3.1\ConstantesVb.runtimeconfig.json
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\ConstantesVb\bin\Debug\netcoreapp3.1\ConstantesVb.runtimeconfig.dev.json
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\ConstantesVb\bin\Debug\netcoreapp3.1\ConstantesVb.dll
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\ConstantesVb\bin\Debug\netcoreapp3.1\ConstantesVb.pdb
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\ConstantesVb\obj\Debug\netcoreapp3.1\ConstantesVb.AssemblyInfoInputs.cache
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\ConstantesVb\obj\Debug\netcoreapp3.1\ConstantesVb.AssemblyInfo.vb
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\ConstantesVb\obj\Debug\netcoreapp3.1\ConstantesVb.vbproj.CoreCompileInputs.cache
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\ConstantesVb\obj\Debug\netcoreapp3.1\ConstantesVb.dll
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\ConstantesVb\obj\Debug\netcoreapp3.1\ConstantesVb.pdb
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\ConstantesVb\obj\Debug\netcoreapp3.1\ConstantesVb.genruntimeconfig.cache

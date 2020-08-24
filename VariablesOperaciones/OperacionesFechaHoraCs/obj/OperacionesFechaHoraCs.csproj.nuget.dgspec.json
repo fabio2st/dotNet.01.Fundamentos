@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Classroom\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\OperacionesFechaHoraCs\\OperacionesFechaHoraCs.csproj": {}
+    "E:\\Classroom\\Programación II\\Ejemplos\\S20.PG2.2.Fundamentos\\VariablesOperaciones\\OperacionesFechaHoraCs\\OperacionesFechaHoraCs.csproj": {}
   },
   "projects": {
-    "E:\\Classroom\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\OperacionesFechaHoraCs\\OperacionesFechaHoraCs.csproj": {
+    "E:\\Classroom\\Programación II\\Ejemplos\\S20.PG2.2.Fundamentos\\VariablesOperaciones\\OperacionesFechaHoraCs\\OperacionesFechaHoraCs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Classroom\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\OperacionesFechaHoraCs\\OperacionesFechaHoraCs.csproj",
+        "projectUniqueName": "E:\\Classroom\\Programación II\\Ejemplos\\S20.PG2.2.Fundamentos\\VariablesOperaciones\\OperacionesFechaHoraCs\\OperacionesFechaHoraCs.csproj",
         "projectName": "OperacionesFechaHoraCs",
-        "projectPath": "E:\\Classroom\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\OperacionesFechaHoraCs\\OperacionesFechaHoraCs.csproj",
+        "projectPath": "E:\\Classroom\\Programación II\\Ejemplos\\S20.PG2.2.Fundamentos\\VariablesOperaciones\\OperacionesFechaHoraCs\\OperacionesFechaHoraCs.csproj",
         "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-        "outputPath": "E:\\Classroom\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\OperacionesFechaHoraCs\\obj\\",
+        "outputPath": "E:\\Classroom\\Programación II\\Ejemplos\\S20.PG2.2.Fundamentos\\VariablesOperaciones\\OperacionesFechaHoraCs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

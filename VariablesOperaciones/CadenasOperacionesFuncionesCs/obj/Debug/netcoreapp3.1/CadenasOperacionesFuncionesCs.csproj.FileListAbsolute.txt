@@ -11,3 +11,15 @@ E:\Development\visual studio 2019\Programacion2\PG2-S20-E02 demos\VariablesOpera
 E:\Development\visual studio 2019\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\CadenasOperacionesFuncionesCs\obj\Debug\netcoreapp3.1\CadenasOperacionesFuncionesCs.pdb
 E:\Development\visual studio 2019\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\CadenasOperacionesFuncionesCs\obj\Debug\netcoreapp3.1\CadenasOperacionesFuncionesCs.genruntimeconfig.cache
 E:\Development\visual studio 2019\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\CadenasOperacionesFuncionesCs\obj\Debug\netcoreapp3.1\CadenasOperacionesFuncionesCs.csprojAssemblyReference.cache
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\CadenasOperacionesFuncionesCs\bin\Debug\netcoreapp3.1\CadenasOperacionesFuncionesCs.exe
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\CadenasOperacionesFuncionesCs\bin\Debug\netcoreapp3.1\CadenasOperacionesFuncionesCs.deps.json
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\CadenasOperacionesFuncionesCs\bin\Debug\netcoreapp3.1\CadenasOperacionesFuncionesCs.runtimeconfig.json
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\CadenasOperacionesFuncionesCs\bin\Debug\netcoreapp3.1\CadenasOperacionesFuncionesCs.runtimeconfig.dev.json
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\CadenasOperacionesFuncionesCs\bin\Debug\netcoreapp3.1\CadenasOperacionesFuncionesCs.dll
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\CadenasOperacionesFuncionesCs\bin\Debug\netcoreapp3.1\CadenasOperacionesFuncionesCs.pdb
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\CadenasOperacionesFuncionesCs\obj\Debug\netcoreapp3.1\CadenasOperacionesFuncionesCs.AssemblyInfoInputs.cache
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\CadenasOperacionesFuncionesCs\obj\Debug\netcoreapp3.1\CadenasOperacionesFuncionesCs.AssemblyInfo.cs
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\CadenasOperacionesFuncionesCs\obj\Debug\netcoreapp3.1\CadenasOperacionesFuncionesCs.csproj.CoreCompileInputs.cache
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\CadenasOperacionesFuncionesCs\obj\Debug\netcoreapp3.1\CadenasOperacionesFuncionesCs.dll
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\CadenasOperacionesFuncionesCs\obj\Debug\netcoreapp3.1\CadenasOperacionesFuncionesCs.pdb
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\CadenasOperacionesFuncionesCs\obj\Debug\netcoreapp3.1\CadenasOperacionesFuncionesCs.genruntimeconfig.cache

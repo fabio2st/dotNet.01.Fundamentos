@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Classroom\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\OperacionesFuncionesAritmeticasCs\\OperacionesFuncionesAritmeticasCs.csproj",
+      "projectUniqueName": "E:\\Classroom\\Programación II\\Ejemplos\\S20.PG2.2.Fundamentos\\VariablesOperaciones\\OperacionesFuncionesAritmeticasCs\\OperacionesFuncionesAritmeticasCs.csproj",
       "projectName": "OperacionesFuncionesAritmeticasCs",
-      "projectPath": "E:\\Classroom\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\OperacionesFuncionesAritmeticasCs\\OperacionesFuncionesAritmeticasCs.csproj",
+      "projectPath": "E:\\Classroom\\Programación II\\Ejemplos\\S20.PG2.2.Fundamentos\\VariablesOperaciones\\OperacionesFuncionesAritmeticasCs\\OperacionesFuncionesAritmeticasCs.csproj",
       "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-      "outputPath": "E:\\Classroom\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\OperacionesFuncionesAritmeticasCs\\obj\\",
+      "outputPath": "E:\\Classroom\\Programación II\\Ejemplos\\S20.PG2.2.Fundamentos\\VariablesOperaciones\\OperacionesFuncionesAritmeticasCs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

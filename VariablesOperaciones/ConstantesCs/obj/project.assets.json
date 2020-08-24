@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Classroom\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\ConstantesCs\\ConstantesCs.csproj",
+      "projectUniqueName": "E:\\Classroom\\Programación II\\Ejemplos\\S20.PG2.2.Fundamentos\\VariablesOperaciones\\ConstantesCs\\ConstantesCs.csproj",
       "projectName": "ConstantesCs",
-      "projectPath": "E:\\Classroom\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\ConstantesCs\\ConstantesCs.csproj",
+      "projectPath": "E:\\Classroom\\Programación II\\Ejemplos\\S20.PG2.2.Fundamentos\\VariablesOperaciones\\ConstantesCs\\ConstantesCs.csproj",
       "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-      "outputPath": "E:\\Classroom\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\ConstantesCs\\obj\\",
+      "outputPath": "E:\\Classroom\\Programación II\\Ejemplos\\S20.PG2.2.Fundamentos\\VariablesOperaciones\\ConstantesCs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

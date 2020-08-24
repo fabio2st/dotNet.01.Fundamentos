@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Classroom\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\SueldoEmpleadoVb\\SueldoEmpleadoVb.vbproj": {}
+    "E:\\Classroom\\Programación II\\Ejemplos\\S20.PG2.2.Fundamentos\\VariablesOperaciones\\SueldoEmpleadoVb\\SueldoEmpleadoVb.vbproj": {}
   },
   "projects": {
-    "E:\\Classroom\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\SueldoEmpleadoVb\\SueldoEmpleadoVb.vbproj": {
+    "E:\\Classroom\\Programación II\\Ejemplos\\S20.PG2.2.Fundamentos\\VariablesOperaciones\\SueldoEmpleadoVb\\SueldoEmpleadoVb.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Classroom\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\SueldoEmpleadoVb\\SueldoEmpleadoVb.vbproj",
+        "projectUniqueName": "E:\\Classroom\\Programación II\\Ejemplos\\S20.PG2.2.Fundamentos\\VariablesOperaciones\\SueldoEmpleadoVb\\SueldoEmpleadoVb.vbproj",
         "projectName": "SueldoEmpleadoVb",
-        "projectPath": "E:\\Classroom\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\SueldoEmpleadoVb\\SueldoEmpleadoVb.vbproj",
+        "projectPath": "E:\\Classroom\\Programación II\\Ejemplos\\S20.PG2.2.Fundamentos\\VariablesOperaciones\\SueldoEmpleadoVb\\SueldoEmpleadoVb.vbproj",
         "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-        "outputPath": "E:\\Classroom\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\SueldoEmpleadoVb\\obj\\",
+        "outputPath": "E:\\Classroom\\Programación II\\Ejemplos\\S20.PG2.2.Fundamentos\\VariablesOperaciones\\SueldoEmpleadoVb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

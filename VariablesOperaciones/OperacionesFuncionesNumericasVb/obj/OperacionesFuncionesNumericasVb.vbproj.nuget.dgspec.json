@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Classroom\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\OperacionesFuncionesNumericasVb\\OperacionesFuncionesNumericasVb.vbproj": {}
+    "E:\\Classroom\\Programación II\\Ejemplos\\S20.PG2.2.Fundamentos\\VariablesOperaciones\\OperacionesFuncionesNumericasVb\\OperacionesFuncionesNumericasVb.vbproj": {}
   },
   "projects": {
-    "E:\\Classroom\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\OperacionesFuncionesNumericasVb\\OperacionesFuncionesNumericasVb.vbproj": {
+    "E:\\Classroom\\Programación II\\Ejemplos\\S20.PG2.2.Fundamentos\\VariablesOperaciones\\OperacionesFuncionesNumericasVb\\OperacionesFuncionesNumericasVb.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Classroom\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\OperacionesFuncionesNumericasVb\\OperacionesFuncionesNumericasVb.vbproj",
+        "projectUniqueName": "E:\\Classroom\\Programación II\\Ejemplos\\S20.PG2.2.Fundamentos\\VariablesOperaciones\\OperacionesFuncionesNumericasVb\\OperacionesFuncionesNumericasVb.vbproj",
         "projectName": "OperacionesFuncionesNumericasVb",
-        "projectPath": "E:\\Classroom\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\OperacionesFuncionesNumericasVb\\OperacionesFuncionesNumericasVb.vbproj",
+        "projectPath": "E:\\Classroom\\Programación II\\Ejemplos\\S20.PG2.2.Fundamentos\\VariablesOperaciones\\OperacionesFuncionesNumericasVb\\OperacionesFuncionesNumericasVb.vbproj",
         "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-        "outputPath": "E:\\Classroom\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\OperacionesFuncionesNumericasVb\\obj\\",
+        "outputPath": "E:\\Classroom\\Programación II\\Ejemplos\\S20.PG2.2.Fundamentos\\VariablesOperaciones\\OperacionesFuncionesNumericasVb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

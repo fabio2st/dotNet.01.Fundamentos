@@ -11,3 +11,15 @@ E:\Classroom\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\OperacionesFec
 E:\Classroom\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\OperacionesFechaHoraVb\obj\Debug\netcoreapp3.1\OperacionesFechaHoraVb.pdb
 E:\Classroom\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\OperacionesFechaHoraVb\obj\Debug\netcoreapp3.1\OperacionesFechaHoraVb.genruntimeconfig.cache
 E:\Classroom\Programacion2\PG2-S20-E02 demos\VariablesOperaciones\OperacionesFechaHoraVb\obj\Debug\netcoreapp3.1\OperacionesFechaHoraVb.vbprojAssemblyReference.cache
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\OperacionesFechaHoraVb\bin\Debug\netcoreapp3.1\OperacionesFechaHoraVb.exe
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\OperacionesFechaHoraVb\bin\Debug\netcoreapp3.1\OperacionesFechaHoraVb.deps.json
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\OperacionesFechaHoraVb\bin\Debug\netcoreapp3.1\OperacionesFechaHoraVb.runtimeconfig.json
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\OperacionesFechaHoraVb\bin\Debug\netcoreapp3.1\OperacionesFechaHoraVb.runtimeconfig.dev.json
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\OperacionesFechaHoraVb\bin\Debug\netcoreapp3.1\OperacionesFechaHoraVb.dll
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\OperacionesFechaHoraVb\bin\Debug\netcoreapp3.1\OperacionesFechaHoraVb.pdb
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\OperacionesFechaHoraVb\obj\Debug\netcoreapp3.1\OperacionesFechaHoraVb.AssemblyInfoInputs.cache
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\OperacionesFechaHoraVb\obj\Debug\netcoreapp3.1\OperacionesFechaHoraVb.AssemblyInfo.vb
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\OperacionesFechaHoraVb\obj\Debug\netcoreapp3.1\OperacionesFechaHoraVb.vbproj.CoreCompileInputs.cache
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\OperacionesFechaHoraVb\obj\Debug\netcoreapp3.1\OperacionesFechaHoraVb.dll
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\OperacionesFechaHoraVb\obj\Debug\netcoreapp3.1\OperacionesFechaHoraVb.pdb
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\OperacionesFechaHoraVb\obj\Debug\netcoreapp3.1\OperacionesFechaHoraVb.genruntimeconfig.cache

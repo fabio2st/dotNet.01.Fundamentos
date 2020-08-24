@@ -1,0 +1,13 @@
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\Enumeraciones\bin\Debug\netcoreapp3.1\EnumeracionesCs.exe
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\Enumeraciones\bin\Debug\netcoreapp3.1\EnumeracionesCs.deps.json
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\Enumeraciones\bin\Debug\netcoreapp3.1\EnumeracionesCs.runtimeconfig.json
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\Enumeraciones\bin\Debug\netcoreapp3.1\EnumeracionesCs.runtimeconfig.dev.json
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\Enumeraciones\bin\Debug\netcoreapp3.1\EnumeracionesCs.dll
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\Enumeraciones\bin\Debug\netcoreapp3.1\EnumeracionesCs.pdb
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\Enumeraciones\obj\Debug\netcoreapp3.1\EnumeracionesCs.AssemblyInfoInputs.cache
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\Enumeraciones\obj\Debug\netcoreapp3.1\EnumeracionesCs.AssemblyInfo.cs
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\Enumeraciones\obj\Debug\netcoreapp3.1\EnumeracionesCs.csproj.CoreCompileInputs.cache
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\Enumeraciones\obj\Debug\netcoreapp3.1\EnumeracionesCs.dll
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\Enumeraciones\obj\Debug\netcoreapp3.1\EnumeracionesCs.pdb
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\Enumeraciones\obj\Debug\netcoreapp3.1\EnumeracionesCs.genruntimeconfig.cache
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\Enumeraciones\obj\Debug\netcoreapp3.1\EnumeracionesCs.csprojAssemblyReference.cache

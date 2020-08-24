@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Classroom\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\ConstantesVb\\ConstantesVb.vbproj": {}
+    "E:\\Classroom\\Programación II\\Ejemplos\\S20.PG2.2.Fundamentos\\VariablesOperaciones\\ConstantesVb\\ConstantesVb.vbproj": {}
   },
   "projects": {
-    "E:\\Classroom\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\ConstantesVb\\ConstantesVb.vbproj": {
+    "E:\\Classroom\\Programación II\\Ejemplos\\S20.PG2.2.Fundamentos\\VariablesOperaciones\\ConstantesVb\\ConstantesVb.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Classroom\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\ConstantesVb\\ConstantesVb.vbproj",
+        "projectUniqueName": "E:\\Classroom\\Programación II\\Ejemplos\\S20.PG2.2.Fundamentos\\VariablesOperaciones\\ConstantesVb\\ConstantesVb.vbproj",
         "projectName": "ConstantesVb",
-        "projectPath": "E:\\Classroom\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\ConstantesVb\\ConstantesVb.vbproj",
+        "projectPath": "E:\\Classroom\\Programación II\\Ejemplos\\S20.PG2.2.Fundamentos\\VariablesOperaciones\\ConstantesVb\\ConstantesVb.vbproj",
         "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-        "outputPath": "E:\\Classroom\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\ConstantesVb\\obj\\",
+        "outputPath": "E:\\Classroom\\Programación II\\Ejemplos\\S20.PG2.2.Fundamentos\\VariablesOperaciones\\ConstantesVb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Classroom\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\CadenasOperacionesFuncionesVB\\CadenasOperacionesFuncionesVB.vbproj": {}
+    "E:\\Classroom\\Programación II\\Ejemplos\\S20.PG2.2.Fundamentos\\VariablesOperaciones\\CadenasOperacionesFuncionesVB\\CadenasOperacionesFuncionesVB.vbproj": {}
   },
   "projects": {
-    "E:\\Classroom\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\CadenasOperacionesFuncionesVB\\CadenasOperacionesFuncionesVB.vbproj": {
+    "E:\\Classroom\\Programación II\\Ejemplos\\S20.PG2.2.Fundamentos\\VariablesOperaciones\\CadenasOperacionesFuncionesVB\\CadenasOperacionesFuncionesVB.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Classroom\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\CadenasOperacionesFuncionesVB\\CadenasOperacionesFuncionesVB.vbproj",
+        "projectUniqueName": "E:\\Classroom\\Programación II\\Ejemplos\\S20.PG2.2.Fundamentos\\VariablesOperaciones\\CadenasOperacionesFuncionesVB\\CadenasOperacionesFuncionesVB.vbproj",
         "projectName": "CadenasOperacionesFuncionesVB",
-        "projectPath": "E:\\Classroom\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\CadenasOperacionesFuncionesVB\\CadenasOperacionesFuncionesVB.vbproj",
+        "projectPath": "E:\\Classroom\\Programación II\\Ejemplos\\S20.PG2.2.Fundamentos\\VariablesOperaciones\\CadenasOperacionesFuncionesVB\\CadenasOperacionesFuncionesVB.vbproj",
         "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-        "outputPath": "E:\\Classroom\\Programacion2\\PG2-S20-E02 demos\\VariablesOperaciones\\CadenasOperacionesFuncionesVB\\obj\\",
+        "outputPath": "E:\\Classroom\\Programación II\\Ejemplos\\S20.PG2.2.Fundamentos\\VariablesOperaciones\\CadenasOperacionesFuncionesVB\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
