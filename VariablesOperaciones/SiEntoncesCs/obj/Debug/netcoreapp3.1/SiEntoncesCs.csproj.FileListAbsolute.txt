@@ -1,0 +1,12 @@
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SiEntoncesCs\bin\Debug\netcoreapp3.1\SiEntoncesCs.exe
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SiEntoncesCs\bin\Debug\netcoreapp3.1\SiEntoncesCs.deps.json
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SiEntoncesCs\bin\Debug\netcoreapp3.1\SiEntoncesCs.runtimeconfig.json
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SiEntoncesCs\bin\Debug\netcoreapp3.1\SiEntoncesCs.runtimeconfig.dev.json
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SiEntoncesCs\bin\Debug\netcoreapp3.1\SiEntoncesCs.dll
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SiEntoncesCs\bin\Debug\netcoreapp3.1\SiEntoncesCs.pdb
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SiEntoncesCs\obj\Debug\netcoreapp3.1\SiEntoncesCs.AssemblyInfoInputs.cache
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SiEntoncesCs\obj\Debug\netcoreapp3.1\SiEntoncesCs.AssemblyInfo.cs
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SiEntoncesCs\obj\Debug\netcoreapp3.1\SiEntoncesCs.csproj.CoreCompileInputs.cache
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SiEntoncesCs\obj\Debug\netcoreapp3.1\SiEntoncesCs.dll
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SiEntoncesCs\obj\Debug\netcoreapp3.1\SiEntoncesCs.pdb
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SiEntoncesCs\obj\Debug\netcoreapp3.1\SiEntoncesCs.genruntimeconfig.cache
