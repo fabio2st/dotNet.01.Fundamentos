@@ -8,7 +8,7 @@ namespace SiEntoncesVb
         public static void Main(string[] args)
         {
             short a;
-            Console.WriteLine("Ingrese un valor");
+            Console.Write("Ingrese un valor: ");
             a = Conversions.ToShort(Console.ReadLine());
             if (a > 0)
                 Console.WriteLine("Es positivo");

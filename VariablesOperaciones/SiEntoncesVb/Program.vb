@@ -3,7 +3,7 @@ Imports System
 Module Program
     Sub Main(args As String())
         Dim a As Short
-        Console.WriteLine("Ingrese un valor")
+        Console.Write("Ingrese un valor: ")
         a = Console.ReadLine
         If a > 0 Then
             Console.WriteLine("Es positivo")
