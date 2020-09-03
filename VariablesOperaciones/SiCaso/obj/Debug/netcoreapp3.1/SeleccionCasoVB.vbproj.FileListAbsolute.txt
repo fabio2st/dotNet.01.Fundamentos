@@ -1,0 +1,13 @@
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SiCaso\bin\Debug\netcoreapp3.1\SeleccionCasoVB.exe
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SiCaso\bin\Debug\netcoreapp3.1\SeleccionCasoVB.deps.json
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SiCaso\bin\Debug\netcoreapp3.1\SeleccionCasoVB.runtimeconfig.json
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SiCaso\bin\Debug\netcoreapp3.1\SeleccionCasoVB.runtimeconfig.dev.json
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SiCaso\bin\Debug\netcoreapp3.1\SeleccionCasoVB.dll
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SiCaso\bin\Debug\netcoreapp3.1\SeleccionCasoVB.pdb
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SiCaso\obj\Debug\netcoreapp3.1\SeleccionCasoVB.AssemblyInfoInputs.cache
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SiCaso\obj\Debug\netcoreapp3.1\SeleccionCasoVB.AssemblyInfo.vb
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SiCaso\obj\Debug\netcoreapp3.1\SeleccionCasoVB.vbproj.CoreCompileInputs.cache
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SiCaso\obj\Debug\netcoreapp3.1\SeleccionCasoVB.dll
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SiCaso\obj\Debug\netcoreapp3.1\SeleccionCasoVB.pdb
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SiCaso\obj\Debug\netcoreapp3.1\SeleccionCasoVB.genruntimeconfig.cache
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SiCaso\obj\Debug\netcoreapp3.1\SeleccionCasoVB.vbprojAssemblyReference.cache

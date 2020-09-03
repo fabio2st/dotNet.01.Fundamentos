@@ -10,4 +10,3 @@ E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperacione
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\Enumeraciones\obj\Debug\netcoreapp3.1\EnumeracionesCs.dll
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\Enumeraciones\obj\Debug\netcoreapp3.1\EnumeracionesCs.pdb
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\Enumeraciones\obj\Debug\netcoreapp3.1\EnumeracionesCs.genruntimeconfig.cache
-E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\Enumeraciones\obj\Debug\netcoreapp3.1\EnumeracionesCs.csprojAssemblyReference.cache

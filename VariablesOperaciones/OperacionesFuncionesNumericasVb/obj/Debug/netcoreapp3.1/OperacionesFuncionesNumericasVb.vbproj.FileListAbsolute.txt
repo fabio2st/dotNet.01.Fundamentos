@@ -17,6 +17,7 @@ E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperacione
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\OperacionesFuncionesNumericasVb\bin\Debug\netcoreapp3.1\OperacionesFuncionesNumericasVb.runtimeconfig.dev.json
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\OperacionesFuncionesNumericasVb\bin\Debug\netcoreapp3.1\OperacionesFuncionesNumericasVb.dll
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\OperacionesFuncionesNumericasVb\bin\Debug\netcoreapp3.1\OperacionesFuncionesNumericasVb.pdb
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\OperacionesFuncionesNumericasVb\obj\Debug\netcoreapp3.1\OperacionesFuncionesNumericasVb.vbprojAssemblyReference.cache
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\OperacionesFuncionesNumericasVb\obj\Debug\netcoreapp3.1\OperacionesFuncionesNumericasVb.AssemblyInfoInputs.cache
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\OperacionesFuncionesNumericasVb\obj\Debug\netcoreapp3.1\OperacionesFuncionesNumericasVb.AssemblyInfo.vb
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\OperacionesFuncionesNumericasVb\obj\Debug\netcoreapp3.1\OperacionesFuncionesNumericasVb.vbproj.CoreCompileInputs.cache

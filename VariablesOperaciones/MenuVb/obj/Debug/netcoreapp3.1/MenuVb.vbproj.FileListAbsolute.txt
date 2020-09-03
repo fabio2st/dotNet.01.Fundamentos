@@ -1,0 +1,12 @@
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\MenuVb\bin\Debug\netcoreapp3.1\MenuVb.exe
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\MenuVb\bin\Debug\netcoreapp3.1\MenuVb.deps.json
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\MenuVb\bin\Debug\netcoreapp3.1\MenuVb.runtimeconfig.json
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\MenuVb\bin\Debug\netcoreapp3.1\MenuVb.runtimeconfig.dev.json
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\MenuVb\bin\Debug\netcoreapp3.1\MenuVb.dll
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\MenuVb\bin\Debug\netcoreapp3.1\MenuVb.pdb
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\MenuVb\obj\Debug\netcoreapp3.1\MenuVb.AssemblyInfoInputs.cache
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\MenuVb\obj\Debug\netcoreapp3.1\MenuVb.AssemblyInfo.vb
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\MenuVb\obj\Debug\netcoreapp3.1\MenuVb.vbproj.CoreCompileInputs.cache
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\MenuVb\obj\Debug\netcoreapp3.1\MenuVb.dll
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\MenuVb\obj\Debug\netcoreapp3.1\MenuVb.pdb
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\MenuVb\obj\Debug\netcoreapp3.1\MenuVb.genruntimeconfig.cache

@@ -10,4 +10,3 @@ E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperacione
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SiEntoncesCs\obj\Debug\netcoreapp3.1\SiEntoncesCs.dll
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SiEntoncesCs\obj\Debug\netcoreapp3.1\SiEntoncesCs.pdb
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SiEntoncesCs\obj\Debug\netcoreapp3.1\SiEntoncesCs.genruntimeconfig.cache
-E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SiEntoncesCs\obj\Debug\netcoreapp3.1\SiEntoncesCs.csprojAssemblyReference.cache

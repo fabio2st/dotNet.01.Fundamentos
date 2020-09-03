@@ -17,6 +17,7 @@ E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperacione
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\CadenasOperacionesFuncionesVB\bin\Debug\netcoreapp3.1\CadenasOperacionesFuncionesVB.runtimeconfig.dev.json
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\CadenasOperacionesFuncionesVB\bin\Debug\netcoreapp3.1\CadenasOperacionesFuncionesVB.dll
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\CadenasOperacionesFuncionesVB\bin\Debug\netcoreapp3.1\CadenasOperacionesFuncionesVB.pdb
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\CadenasOperacionesFuncionesVB\obj\Debug\netcoreapp3.1\CadenasOperacionesFuncionesVB.vbprojAssemblyReference.cache
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\CadenasOperacionesFuncionesVB\obj\Debug\netcoreapp3.1\CadenasOperacionesFuncionesVB.AssemblyInfoInputs.cache
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\CadenasOperacionesFuncionesVB\obj\Debug\netcoreapp3.1\CadenasOperacionesFuncionesVB.AssemblyInfo.vb
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\CadenasOperacionesFuncionesVB\obj\Debug\netcoreapp3.1\CadenasOperacionesFuncionesVB.vbproj.CoreCompileInputs.cache
