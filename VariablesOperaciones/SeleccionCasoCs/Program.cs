@@ -11,14 +11,14 @@ namespace SeleccionCaso
         static void Main(string[] args)
         {
             short valor;
-            Console.WriteLine("Ingrese un valor entre {0} y {1}", minimo, maximo);
+            Console.Write("Ingrese un valor entre {0} y {1}: ", minimo, maximo);
             valor = Convert.ToInt16(Console.ReadLine());
             switch (valor)
             {
                 case 1:
                     {
                         Console.WriteLine("Es uno");
-                        break;
+                        throw new Exception();
                     }
 
                 case 2:
@@ -48,7 +48,7 @@ namespace SeleccionCaso
 
                 default:
                     {
-                        Console.WriteLine("Es otro numero");
+                        Console.WriteLine("Es otro numero: " + valor);
                         break;
                     }
             }

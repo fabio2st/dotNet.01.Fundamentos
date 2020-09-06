@@ -5,7 +5,7 @@ Module Program
     Const maximo As UShort = 10
     Sub Main(args As String())
         Dim valor As Short
-        Console.WriteLine("Ingrese un valor entre {0} y {1}", minimo, maximo)
+        Console.Write("Ingrese un valor entre {0} y {1}: ", minimo, maximo)
         valor = Console.ReadLine()
         Select Case valor
             Case 1
