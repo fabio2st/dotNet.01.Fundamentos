@@ -10,4 +10,3 @@ E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperacione
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SiCaso\obj\Debug\netcoreapp3.1\SeleccionCasoVB.dll
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SiCaso\obj\Debug\netcoreapp3.1\SeleccionCasoVB.pdb
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SiCaso\obj\Debug\netcoreapp3.1\SeleccionCasoVB.genruntimeconfig.cache
-E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SiCaso\obj\Debug\netcoreapp3.1\SeleccionCasoVB.vbprojAssemblyReference.cache

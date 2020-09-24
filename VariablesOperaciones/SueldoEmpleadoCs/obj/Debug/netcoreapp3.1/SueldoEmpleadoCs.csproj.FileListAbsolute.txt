@@ -17,7 +17,6 @@ E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperacione
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SueldoEmpleadoCs\bin\Debug\netcoreapp3.1\SueldoEmpleadoCs.runtimeconfig.dev.json
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SueldoEmpleadoCs\bin\Debug\netcoreapp3.1\SueldoEmpleadoCs.dll
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SueldoEmpleadoCs\bin\Debug\netcoreapp3.1\SueldoEmpleadoCs.pdb
-E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SueldoEmpleadoCs\obj\Debug\netcoreapp3.1\SueldoEmpleadoCs.csprojAssemblyReference.cache
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SueldoEmpleadoCs\obj\Debug\netcoreapp3.1\SueldoEmpleadoCs.AssemblyInfoInputs.cache
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SueldoEmpleadoCs\obj\Debug\netcoreapp3.1\SueldoEmpleadoCs.AssemblyInfo.cs
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SueldoEmpleadoCs\obj\Debug\netcoreapp3.1\SueldoEmpleadoCs.csproj.CoreCompileInputs.cache

@@ -4,10 +4,10 @@ E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperacione
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SeleccionCasoCs\bin\Debug\netcoreapp3.1\SeleccionCasoCs.runtimeconfig.dev.json
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SeleccionCasoCs\bin\Debug\netcoreapp3.1\SeleccionCasoCs.dll
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SeleccionCasoCs\bin\Debug\netcoreapp3.1\SeleccionCasoCs.pdb
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SeleccionCasoCs\obj\Debug\netcoreapp3.1\SeleccionCasoCs.csprojAssemblyReference.cache
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SeleccionCasoCs\obj\Debug\netcoreapp3.1\SeleccionCasoCs.AssemblyInfoInputs.cache
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SeleccionCasoCs\obj\Debug\netcoreapp3.1\SeleccionCasoCs.AssemblyInfo.cs
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SeleccionCasoCs\obj\Debug\netcoreapp3.1\SeleccionCasoCs.csproj.CoreCompileInputs.cache
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SeleccionCasoCs\obj\Debug\netcoreapp3.1\SeleccionCasoCs.dll
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SeleccionCasoCs\obj\Debug\netcoreapp3.1\SeleccionCasoCs.pdb
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SeleccionCasoCs\obj\Debug\netcoreapp3.1\SeleccionCasoCs.genruntimeconfig.cache
-E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SeleccionCasoCs\obj\Debug\netcoreapp3.1\SeleccionCasoCs.csprojAssemblyReference.cache

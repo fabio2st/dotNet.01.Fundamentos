@@ -1,0 +1,13 @@
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\IteracionParaVb\bin\Debug\netcoreapp3.1\IteracionParaVb.exe
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\IteracionParaVb\bin\Debug\netcoreapp3.1\IteracionParaVb.deps.json
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\IteracionParaVb\bin\Debug\netcoreapp3.1\IteracionParaVb.runtimeconfig.json
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\IteracionParaVb\bin\Debug\netcoreapp3.1\IteracionParaVb.runtimeconfig.dev.json
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\IteracionParaVb\bin\Debug\netcoreapp3.1\IteracionParaVb.dll
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\IteracionParaVb\bin\Debug\netcoreapp3.1\IteracionParaVb.pdb
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\IteracionParaVb\obj\Debug\netcoreapp3.1\IteracionParaVb.vbprojAssemblyReference.cache
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\IteracionParaVb\obj\Debug\netcoreapp3.1\IteracionParaVb.AssemblyInfoInputs.cache
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\IteracionParaVb\obj\Debug\netcoreapp3.1\IteracionParaVb.AssemblyInfo.vb
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\IteracionParaVb\obj\Debug\netcoreapp3.1\IteracionParaVb.vbproj.CoreCompileInputs.cache
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\IteracionParaVb\obj\Debug\netcoreapp3.1\IteracionParaVb.dll
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\IteracionParaVb\obj\Debug\netcoreapp3.1\IteracionParaVb.pdb
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\IteracionParaVb\obj\Debug\netcoreapp3.1\IteracionParaVb.genruntimeconfig.cache

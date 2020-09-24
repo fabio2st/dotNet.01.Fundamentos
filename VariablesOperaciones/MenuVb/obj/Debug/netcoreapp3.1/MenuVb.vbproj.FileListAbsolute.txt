@@ -10,4 +10,3 @@ E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperacione
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\MenuVb\obj\Debug\netcoreapp3.1\MenuVb.dll
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\MenuVb\obj\Debug\netcoreapp3.1\MenuVb.pdb
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\MenuVb\obj\Debug\netcoreapp3.1\MenuVb.genruntimeconfig.cache
-E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\MenuVb\obj\Debug\netcoreapp3.1\MenuVb.vbprojAssemblyReference.cache
