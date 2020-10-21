@@ -23,3 +23,4 @@ E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperacione
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\CadenasOperacionesFuncionesCs\obj\Debug\netcoreapp3.1\CadenasOperacionesFuncionesCs.dll
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\CadenasOperacionesFuncionesCs\obj\Debug\netcoreapp3.1\CadenasOperacionesFuncionesCs.pdb
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\CadenasOperacionesFuncionesCs\obj\Debug\netcoreapp3.1\CadenasOperacionesFuncionesCs.genruntimeconfig.cache
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\CadenasOperacionesFuncionesCs\obj\Debug\netcoreapp3.1\CadenasOperacionesFuncionesCs.csprojAssemblyReference.cache
