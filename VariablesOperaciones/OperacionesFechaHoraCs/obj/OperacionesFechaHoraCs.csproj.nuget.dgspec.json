@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Classroom\\Programación II\\Ejemplos\\S20.PG2.2.Fundamentos\\VariablesOperaciones\\OperacionesFechaHoraCs\\OperacionesFechaHoraCs.csproj": {}
+    "D:\\Classroom\\Programación II\\Examples\\S20.PG2.Fundamentos\\VariablesOperaciones\\OperacionesFechaHoraCs\\OperacionesFechaHoraCs.csproj": {}
   },
   "projects": {
-    "E:\\Classroom\\Programación II\\Ejemplos\\S20.PG2.2.Fundamentos\\VariablesOperaciones\\OperacionesFechaHoraCs\\OperacionesFechaHoraCs.csproj": {
+    "D:\\Classroom\\Programación II\\Examples\\S20.PG2.Fundamentos\\VariablesOperaciones\\OperacionesFechaHoraCs\\OperacionesFechaHoraCs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Classroom\\Programación II\\Ejemplos\\S20.PG2.2.Fundamentos\\VariablesOperaciones\\OperacionesFechaHoraCs\\OperacionesFechaHoraCs.csproj",
+        "projectUniqueName": "D:\\Classroom\\Programación II\\Examples\\S20.PG2.Fundamentos\\VariablesOperaciones\\OperacionesFechaHoraCs\\OperacionesFechaHoraCs.csproj",
         "projectName": "OperacionesFechaHoraCs",
-        "projectPath": "E:\\Classroom\\Programación II\\Ejemplos\\S20.PG2.2.Fundamentos\\VariablesOperaciones\\OperacionesFechaHoraCs\\OperacionesFechaHoraCs.csproj",
-        "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-        "outputPath": "E:\\Classroom\\Programación II\\Ejemplos\\S20.PG2.2.Fundamentos\\VariablesOperaciones\\OperacionesFechaHoraCs\\obj\\",
+        "projectPath": "D:\\Classroom\\Programación II\\Examples\\S20.PG2.Fundamentos\\VariablesOperaciones\\OperacionesFechaHoraCs\\OperacionesFechaHoraCs.csproj",
+        "packagesPath": "C:\\Users\\fabio_hnicgc\\.nuget\\packages\\",
+        "outputPath": "D:\\Classroom\\Programación II\\Examples\\S20.PG2.Fundamentos\\VariablesOperaciones\\OperacionesFechaHoraCs\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\fabio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fabio_hnicgc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
