@@ -5,17 +5,25 @@ Module Program
     Sub Main(args As String())
         ' las subs se invocan como comandos
         holaMundo()
+
+        'pueden recibir valores mediante parámetros
         escribir("procedimiento escribe mensaje por parametro")
+
         Dim valor1, valor2 As Integer
         valor1 = 10
         valor2 = 20
+        ' un procedimiento permite reusar codigo
         escribir("Primer valor: " & valor1)
         escribir("Segundo valor: " & valor2)
+
         imprimirMaximo(valor2, valor1)
+
         Dim maximo As Integer
-        ' las funciones se pueden invocar a la derecha de la asignación
+        ' las funciones devuelven un valor
+        ' se pueden invocar a la derecha de la asignación
         maximo = calcularMaximo(valor1, valor2)
         escribir("Máximo valor por función: " & maximo)
+
         ' Paso de variables por valor y referencia
         Dim valor As Double = 30
         escribir("Byval y ByRef; Valor original: " & valor)
