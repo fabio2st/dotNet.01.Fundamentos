@@ -31,12 +31,13 @@ Module Program
         escribir("Valor luego de afectar por valor: " & valor)
         pasoPorReferencia(valor)
         escribir("Valor luego de afectar por referencia: " & valor)
+
         ' sobrecarga
         escribir("Sobrecarga: ")
         ' invoca el procedimiento según el número y tipos de parametros
         escribir(concatenar("hola", "Como te va?"))
-        escribir(concatenar("hola", 999))
         escribir(concatenar("hola", "Como te va?", "todo bien?"))
+        escribir(concatenar("hola", 999))
     End Sub
 
     ' subrutinas realizan una tarea y no retorna valor alguno
@@ -70,10 +71,11 @@ Module Program
     Private Function concatenar(valor1 As String, valor2 As String) As String
         Return valor1 & " - " & valor2
     End Function
-    Private Function concatenar(valor1 As String, valor2 As Integer) As String
-        Return valor1 & " (" & valor2 & ")"
-    End Function
     Private Function concatenar(valor1 As String, valor2 As String, valor3 As String) As String
         Return valor1 & " - " & valor2 & " - " & valor3
     End Function
+    Private Function concatenar(valor1 As String, valor2 As Integer) As String
+        Return valor1 & " (" & valor2 & ")"
+    End Function
+
 End Module

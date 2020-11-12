@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace ProcedimientosCs
+namespace ProcedimientosVb
 {
-    class Program
+    static class Program
     {
         private const ushort paso = 10;
 
@@ -83,16 +83,14 @@ namespace ProcedimientosCs
             return valor1 + " - " + valor2;
         }
 
-        private static string concatenar(string valor1, int valor2)
-        {
-            return valor1 + " (" + valor2 + ")";
-        }
-        
         private static string concatenar(string valor1, string valor2, string valor3)
         {
             return valor1 + " - " + valor2 + " - " + valor3;
         }
 
-
+        private static string concatenar(string valor1, int valor2)
+        {
+            return valor1 + " (" + valor2 + ")";
+        }
     }
 }

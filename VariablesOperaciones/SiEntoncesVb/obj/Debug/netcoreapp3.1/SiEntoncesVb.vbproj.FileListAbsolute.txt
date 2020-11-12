@@ -11,3 +11,15 @@ E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperacione
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SiEntoncesVb\obj\Debug\netcoreapp3.1\SiEntoncesVb.pdb
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SiEntoncesVb\obj\Debug\netcoreapp3.1\SiEntoncesVb.genruntimeconfig.cache
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\SiEntoncesVb\obj\Debug\netcoreapp3.1\SiEntoncesVb.vbprojAssemblyReference.cache
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\SiEntoncesVb\bin\Debug\netcoreapp3.1\SiEntoncesVb.exe
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\SiEntoncesVb\bin\Debug\netcoreapp3.1\SiEntoncesVb.deps.json
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\SiEntoncesVb\bin\Debug\netcoreapp3.1\SiEntoncesVb.runtimeconfig.json
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\SiEntoncesVb\bin\Debug\netcoreapp3.1\SiEntoncesVb.runtimeconfig.dev.json
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\SiEntoncesVb\bin\Debug\netcoreapp3.1\SiEntoncesVb.dll
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\SiEntoncesVb\bin\Debug\netcoreapp3.1\SiEntoncesVb.pdb
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\SiEntoncesVb\obj\Debug\netcoreapp3.1\SiEntoncesVb.AssemblyInfoInputs.cache
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\SiEntoncesVb\obj\Debug\netcoreapp3.1\SiEntoncesVb.AssemblyInfo.vb
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\SiEntoncesVb\obj\Debug\netcoreapp3.1\SiEntoncesVb.vbproj.CoreCompileInputs.cache
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\SiEntoncesVb\obj\Debug\netcoreapp3.1\SiEntoncesVb.dll
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\SiEntoncesVb\obj\Debug\netcoreapp3.1\SiEntoncesVb.pdb
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\SiEntoncesVb\obj\Debug\netcoreapp3.1\SiEntoncesVb.genruntimeconfig.cache

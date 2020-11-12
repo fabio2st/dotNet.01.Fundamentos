@@ -23,3 +23,16 @@ E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperacione
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\ConstantesCs\obj\Debug\netcoreapp3.1\ConstantesCs.dll
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\ConstantesCs\obj\Debug\netcoreapp3.1\ConstantesCs.pdb
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\ConstantesCs\obj\Debug\netcoreapp3.1\ConstantesCs.genruntimeconfig.cache
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\ConstantesCs\bin\Debug\netcoreapp3.1\ConstantesCs.exe
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\ConstantesCs\bin\Debug\netcoreapp3.1\ConstantesCs.deps.json
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\ConstantesCs\bin\Debug\netcoreapp3.1\ConstantesCs.runtimeconfig.json
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\ConstantesCs\bin\Debug\netcoreapp3.1\ConstantesCs.runtimeconfig.dev.json
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\ConstantesCs\bin\Debug\netcoreapp3.1\ConstantesCs.dll
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\ConstantesCs\bin\Debug\netcoreapp3.1\ConstantesCs.pdb
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\ConstantesCs\obj\Debug\netcoreapp3.1\ConstantesCs.csprojAssemblyReference.cache
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\ConstantesCs\obj\Debug\netcoreapp3.1\ConstantesCs.AssemblyInfoInputs.cache
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\ConstantesCs\obj\Debug\netcoreapp3.1\ConstantesCs.AssemblyInfo.cs
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\ConstantesCs\obj\Debug\netcoreapp3.1\ConstantesCs.csproj.CoreCompileInputs.cache
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\ConstantesCs\obj\Debug\netcoreapp3.1\ConstantesCs.dll
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\ConstantesCs\obj\Debug\netcoreapp3.1\ConstantesCs.pdb
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\ConstantesCs\obj\Debug\netcoreapp3.1\ConstantesCs.genruntimeconfig.cache

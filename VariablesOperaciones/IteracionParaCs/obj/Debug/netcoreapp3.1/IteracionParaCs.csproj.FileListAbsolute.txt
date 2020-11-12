@@ -10,3 +10,16 @@ E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperacione
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\IteracionParaCs\obj\Debug\netcoreapp3.1\IteracionParaCs.dll
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\IteracionParaCs\obj\Debug\netcoreapp3.1\IteracionParaCs.pdb
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\IteracionParaCs\obj\Debug\netcoreapp3.1\IteracionParaCs.genruntimeconfig.cache
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\IteracionParaCs\bin\Debug\netcoreapp3.1\IteracionParaCs.exe
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\IteracionParaCs\bin\Debug\netcoreapp3.1\IteracionParaCs.deps.json
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\IteracionParaCs\bin\Debug\netcoreapp3.1\IteracionParaCs.runtimeconfig.json
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\IteracionParaCs\bin\Debug\netcoreapp3.1\IteracionParaCs.runtimeconfig.dev.json
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\IteracionParaCs\bin\Debug\netcoreapp3.1\IteracionParaCs.dll
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\IteracionParaCs\bin\Debug\netcoreapp3.1\IteracionParaCs.pdb
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\IteracionParaCs\obj\Debug\netcoreapp3.1\IteracionParaCs.csprojAssemblyReference.cache
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\IteracionParaCs\obj\Debug\netcoreapp3.1\IteracionParaCs.AssemblyInfoInputs.cache
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\IteracionParaCs\obj\Debug\netcoreapp3.1\IteracionParaCs.AssemblyInfo.cs
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\IteracionParaCs\obj\Debug\netcoreapp3.1\IteracionParaCs.csproj.CoreCompileInputs.cache
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\IteracionParaCs\obj\Debug\netcoreapp3.1\IteracionParaCs.dll
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\IteracionParaCs\obj\Debug\netcoreapp3.1\IteracionParaCs.pdb
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\IteracionParaCs\obj\Debug\netcoreapp3.1\IteracionParaCs.genruntimeconfig.cache

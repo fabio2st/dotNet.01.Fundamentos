@@ -24,3 +24,16 @@ E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperacione
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\OperacionesFuncionesAritmeticasCs\obj\Debug\netcoreapp3.1\OperacionesFuncionesAritmeticasCs.dll
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\OperacionesFuncionesAritmeticasCs\obj\Debug\netcoreapp3.1\OperacionesFuncionesAritmeticasCs.pdb
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\OperacionesFuncionesAritmeticasCs\obj\Debug\netcoreapp3.1\OperacionesFuncionesAritmeticasCs.genruntimeconfig.cache
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\OperacionesFuncionesAritmeticasCs\bin\Debug\netcoreapp3.1\OperacionesFuncionesAritmeticasCs.exe
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\OperacionesFuncionesAritmeticasCs\bin\Debug\netcoreapp3.1\OperacionesFuncionesAritmeticasCs.deps.json
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\OperacionesFuncionesAritmeticasCs\bin\Debug\netcoreapp3.1\OperacionesFuncionesAritmeticasCs.runtimeconfig.json
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\OperacionesFuncionesAritmeticasCs\bin\Debug\netcoreapp3.1\OperacionesFuncionesAritmeticasCs.runtimeconfig.dev.json
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\OperacionesFuncionesAritmeticasCs\bin\Debug\netcoreapp3.1\OperacionesFuncionesAritmeticasCs.dll
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\OperacionesFuncionesAritmeticasCs\bin\Debug\netcoreapp3.1\OperacionesFuncionesAritmeticasCs.pdb
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\OperacionesFuncionesAritmeticasCs\obj\Debug\netcoreapp3.1\OperacionesFuncionesAritmeticasCs.csprojAssemblyReference.cache
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\OperacionesFuncionesAritmeticasCs\obj\Debug\netcoreapp3.1\OperacionesFuncionesAritmeticasCs.AssemblyInfoInputs.cache
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\OperacionesFuncionesAritmeticasCs\obj\Debug\netcoreapp3.1\OperacionesFuncionesAritmeticasCs.AssemblyInfo.cs
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\OperacionesFuncionesAritmeticasCs\obj\Debug\netcoreapp3.1\OperacionesFuncionesAritmeticasCs.csproj.CoreCompileInputs.cache
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\OperacionesFuncionesAritmeticasCs\obj\Debug\netcoreapp3.1\OperacionesFuncionesAritmeticasCs.dll
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\OperacionesFuncionesAritmeticasCs\obj\Debug\netcoreapp3.1\OperacionesFuncionesAritmeticasCs.pdb
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\OperacionesFuncionesAritmeticasCs\obj\Debug\netcoreapp3.1\OperacionesFuncionesAritmeticasCs.genruntimeconfig.cache

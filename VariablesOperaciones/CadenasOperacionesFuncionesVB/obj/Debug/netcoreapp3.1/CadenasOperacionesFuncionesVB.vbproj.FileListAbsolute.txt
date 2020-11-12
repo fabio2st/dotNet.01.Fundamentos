@@ -24,3 +24,16 @@ E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperacione
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\CadenasOperacionesFuncionesVB\obj\Debug\netcoreapp3.1\CadenasOperacionesFuncionesVB.dll
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\CadenasOperacionesFuncionesVB\obj\Debug\netcoreapp3.1\CadenasOperacionesFuncionesVB.pdb
 E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\CadenasOperacionesFuncionesVB\obj\Debug\netcoreapp3.1\CadenasOperacionesFuncionesVB.genruntimeconfig.cache
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\CadenasOperacionesFuncionesVB\bin\Debug\netcoreapp3.1\CadenasOperacionesFuncionesVB.exe
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\CadenasOperacionesFuncionesVB\bin\Debug\netcoreapp3.1\CadenasOperacionesFuncionesVB.deps.json
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\CadenasOperacionesFuncionesVB\bin\Debug\netcoreapp3.1\CadenasOperacionesFuncionesVB.runtimeconfig.json
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\CadenasOperacionesFuncionesVB\bin\Debug\netcoreapp3.1\CadenasOperacionesFuncionesVB.runtimeconfig.dev.json
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\CadenasOperacionesFuncionesVB\bin\Debug\netcoreapp3.1\CadenasOperacionesFuncionesVB.dll
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\CadenasOperacionesFuncionesVB\bin\Debug\netcoreapp3.1\CadenasOperacionesFuncionesVB.pdb
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\CadenasOperacionesFuncionesVB\obj\Debug\netcoreapp3.1\CadenasOperacionesFuncionesVB.vbprojAssemblyReference.cache
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\CadenasOperacionesFuncionesVB\obj\Debug\netcoreapp3.1\CadenasOperacionesFuncionesVB.AssemblyInfoInputs.cache
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\CadenasOperacionesFuncionesVB\obj\Debug\netcoreapp3.1\CadenasOperacionesFuncionesVB.AssemblyInfo.vb
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\CadenasOperacionesFuncionesVB\obj\Debug\netcoreapp3.1\CadenasOperacionesFuncionesVB.vbproj.CoreCompileInputs.cache
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\CadenasOperacionesFuncionesVB\obj\Debug\netcoreapp3.1\CadenasOperacionesFuncionesVB.dll
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\CadenasOperacionesFuncionesVB\obj\Debug\netcoreapp3.1\CadenasOperacionesFuncionesVB.pdb
+D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\CadenasOperacionesFuncionesVB\obj\Debug\netcoreapp3.1\CadenasOperacionesFuncionesVB.genruntimeconfig.cache
