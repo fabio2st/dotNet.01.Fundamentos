@@ -22,3 +22,4 @@ D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\
 D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\EnumeracionesVb\obj\Debug\netcoreapp3.1\EnumeracionesVb.dll
 D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\EnumeracionesVb\obj\Debug\netcoreapp3.1\EnumeracionesVb.pdb
 D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\EnumeracionesVb\obj\Debug\netcoreapp3.1\EnumeracionesVb.genruntimeconfig.cache
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\EnumeracionesVb\obj\Debug\netcoreapp3.1\EnumeracionesVb.vbprojAssemblyReference.cache

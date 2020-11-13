@@ -23,3 +23,4 @@ D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\
 D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\IteracionParaCs\obj\Debug\netcoreapp3.1\IteracionParaCs.dll
 D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\IteracionParaCs\obj\Debug\netcoreapp3.1\IteracionParaCs.pdb
 D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\IteracionParaCs\obj\Debug\netcoreapp3.1\IteracionParaCs.genruntimeconfig.cache
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\IteracionParaCs\obj\Debug\netcoreapp3.1\IteracionParaCs.csprojAssemblyReference.cache

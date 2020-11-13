@@ -35,3 +35,4 @@ D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\
 D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\ConstantesVb\obj\Debug\netcoreapp3.1\ConstantesVb.dll
 D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\ConstantesVb\obj\Debug\netcoreapp3.1\ConstantesVb.pdb
 D:\Classroom\Programación II\Examples\S20.PG2.Fundamentos\VariablesOperaciones\ConstantesVb\obj\Debug\netcoreapp3.1\ConstantesVb.genruntimeconfig.cache
+E:\Classroom\Programación II\Ejemplos\S20.PG2.2.Fundamentos\VariablesOperaciones\ConstantesVb\obj\Debug\netcoreapp3.1\ConstantesVb.vbprojAssemblyReference.cache
