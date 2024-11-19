@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("SiEntoncesVb"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7204283a30b3c55b09b828fc8a6e525baa026fca"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("SiEntoncesVb"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("SiEntoncesVb"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 

@@ -1,5 +1,4 @@
 ﻿using System;
-using Microsoft.VisualBasic.CompilerServices;
 
 namespace SiEntoncesVb
 {
@@ -9,18 +8,14 @@ namespace SiEntoncesVb
         {
             short a;
             Console.Write("Ingrese un valor: ");
-            a = Conversions.ToShort(Console.ReadLine());
+            a = Convert.ToInt16(Console.ReadLine());
             if (a > 0)
                 Console.WriteLine("Es positivo");
 
             if (a > 0)
-            {
                 Console.WriteLine("Es positivo");
-            }
             else
-            {
                 Console.WriteLine("No Es positivo");
-            }
 
             if (a > 0)
                 Console.WriteLine("Es positivo");
@@ -28,6 +23,28 @@ namespace SiEntoncesVb
                 Console.WriteLine("Es negativo");
             else
                 Console.WriteLine("Es cero");
+
+            if (a > 0)
+                Console.WriteLine("Es positivo");
+            else
+            {
+                Console.WriteLine("No Es positivo");
+                if(a < 0)
+                    Console.WriteLine("Es negativo");
+                else
+                    Console.WriteLine("Es cero");
+            }
+
+            short b = Convert.ToInt16(Console.ReadLine());
+            short c = Convert.ToInt16(Console.ReadLine());
+            if (a > b && a > c)
+                Console.WriteLine("A es mayor que b y c");
+
+            if (a > b || a > c)
+                Console.WriteLine("A es mayor que b o c");
+
+            if ((a > c || a > b) && b > c)
+                Console.WriteLine("resultado esperado");
         }
     }
 }
