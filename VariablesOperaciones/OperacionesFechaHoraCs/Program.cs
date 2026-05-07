@@ -6,8 +6,8 @@ namespace OperacionesFechaHoraCs
     {
         static void Main(string[] args)
         {
-            // invocación de constructor
-            var dateOnly = new DateTime(2020, 8, 1);
+			// invocación de constructor
+			DateTime dateOnly = new DateTime(2020, 8, 1);
             Console.WriteLine("Solo fecha: " + dateOnly);
             var dateTime = new DateTime(2020, 8, 1, 20, 24, 52);
             Console.WriteLine("Fecha hora: " + dateTime);
@@ -47,6 +47,49 @@ namespace OperacionesFechaHoraCs
             Console.WriteLine("Intervalo de dias: " + intervalo.Days);
             Console.WriteLine("Intervalo de horas: " + intervalo.Hours);
             Console.WriteLine("Intervalo total de Horas: " + intervalo.TotalHours);
+
+            // Constructor: días, horas, minutos, segundos
+            TimeSpan duracion = new TimeSpan(1, 6, 30, 0); // 1d 6h 30m
+
+            // Métodos estáticos más legibles
+            TimeSpan ochohoras = TimeSpan.FromHours(8);
+            TimeSpan tresDias = TimeSpan.FromDays(3);
+            TimeSpan cincoMins = TimeSpan.FromMinutes(5);
+
+            TimeSpan ts = new TimeSpan(2, 5, 45, 30);
+
+            // Componente individual (solo esa parte)
+            Console.WriteLine(ts.Days); // 2
+            Console.WriteLine(ts.Hours); // 5
+            Console.WriteLine(ts.Minutes); // 45
+
+            // Total expresado en una sola unidad
+            Console.WriteLine(ts.TotalHours); // 53.758...
+            Console.WriteLine(ts.TotalMinutes); // 3225.5
+            Console.WriteLine(ts.TotalDays); // 2.2398...
+
+            DateTime nacimiento = new DateTime(2000, 6, 20);
+            DateTime hoy = DateTime.Today;
+
+            TimeSpan diferencia = hoy - nacimiento;
+
+            Console.WriteLine(diferencia.Days); // días totales
+            Console.WriteLine(diferencia.TotalHours); // horas totales
+
+            // Años aproximados (sin tener en cuenta bisiestos)
+            int años = (int)(diferencia.TotalDays / 365.25);
+            Console.WriteLine($"Edad aprox: {años} años");
+
+            DateTime d = DateTime.Now;
+
+            // Formatos predefinidos
+            Console.WriteLine(d.ToString("dd/MM/yyyy")); // 15/03/2025
+            Console.WriteLine(d.ToString("HH:mm:ss")); // 09:30:00
+            Console.WriteLine(d.ToString("dd/MM/yyyy HH:mm")); // 15/03/2025 09:30
+
+            // Interpolación directa
+            Console.WriteLine($"Hoy es {d:dddd dd 'de' MMMM 'de' yyyy}");
+            // Hoy es Saturday 15 de March de 2025  
         }
     }
 }
