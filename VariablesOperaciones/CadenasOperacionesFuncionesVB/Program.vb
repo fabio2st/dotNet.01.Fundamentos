@@ -2,6 +2,12 @@ Imports System
 Imports System.Globalization
 Module Program
     Sub Main(args As String())
+        Dim s1 As String = "The quick brown fox jumps over the lazy dog"
+        Dim s2 As String = "fox"
+        Dim b As Boolean = s1.Contains(s2)
+        Console.WriteLine("'{0}' is in the string '{1}': {2}",
+                        s2, s1, b)
+
         Dim cadena As String
         Console.WriteLine("Cadena sin inicializar: <" + cadena + ">")
 

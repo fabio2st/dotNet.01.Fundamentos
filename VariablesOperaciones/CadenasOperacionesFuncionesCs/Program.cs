@@ -6,9 +6,15 @@ namespace CadenasOperacionesFuncionesCs
     {
         static void Main(string[] args)
         {
-            string cadena = "";
+			string s1 = "The quick brown fox jumps over the lazy dog";
+			string s2 = "cat";
+			bool b = s1.Contains(s2);
+			Console.WriteLine("'{0}' is in the string '{1}': {2}", s2, s1, b);
+
+			string cadena = "";
             Console.WriteLine("Cadena sin inicializar: <" + cadena + ">");
             cadena = "The path is C:\\PublicDocuments\\Report1.doc";
+            Console.WriteLine("Cadena: " + cadena);
             cadena = @"The path is C:\PublicDocuments\Report1.doc";
             Console.WriteLine("Cadena: " + cadena);
             cadena += "x";
@@ -26,6 +32,7 @@ namespace CadenasOperacionesFuncionesCs
                           posicion, cadena.Substring(posicion));
 
             DateTime dateAndTime = new DateTime(2011, 7, 6, 7, 32, 0);
+
             Single temperature = 25.3F;
             String result = String.Format(
                "A las {0:t} del {0:D}, la temperatura fue {1:F1} grados Centigrados.",
