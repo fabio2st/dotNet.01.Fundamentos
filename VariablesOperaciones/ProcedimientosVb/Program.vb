@@ -4,7 +4,7 @@ Module Program
     Const paso As UShort = 10
     Sub Main(args As String())
         ' las subs se invocan como comandos
-        holaMundo()
+        HolaMundo()
 
         'pueden recibir valores mediante parámetros
         Escribir("procedimiento escribe mensaje por parametro")
@@ -41,7 +41,7 @@ Module Program
     End Sub
 
     ' subrutinas realizan una tarea y no retorna valor alguno
-    Private Sub holaMundo()
+    Private Sub HolaMundo()
         ' los procedimientos pueden invocar otros procedimientos
         Escribir("Ejecutando Subrutina hola Mundo")
     End Sub
