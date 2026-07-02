@@ -4,10 +4,11 @@ namespace OperacionesFuncionesAritmeticasCs
 {
     class Program
     {
+        const int iva = 21;
         static void Main(string[] args)
         {
-            // contador o incrementador
-            ushort contador = 0;
+			// contador o incrementador
+			 ushort contador = 0;
             Console.WriteLine(++contador);
             Console.WriteLine(++contador);
             Console.WriteLine(++contador);
@@ -21,15 +22,21 @@ namespace OperacionesFuncionesAritmeticasCs
             Console.WriteLine(acumulador);
             // división
             Console.WriteLine(25 / 10);
-            Console.WriteLine(Math.Truncate( 25.0 / 10));
+            // resto
             Console.WriteLine(25 % 10);
             // exponenciacion
             ushort r = 5;
+
             r *= r;
-            Console.WriteLine(r);
+            Console.WriteLine("Impuestos con constante: " + 1000 * iva / 100);
+
+			Console.WriteLine(r);
+            Console.WriteLine(Math.Truncate( 25.0 / 10));
             Console.WriteLine(Math.Pow(5,5));
+			Console.WriteLine(Math.Abs(-r));
+			Console.WriteLine(Math.Abs(r));
             //conversion
-            int a = 2147483647;
+                int a = 2147483647;
             long b = a;
             Console.WriteLine(a);
             Console.WriteLine(b);

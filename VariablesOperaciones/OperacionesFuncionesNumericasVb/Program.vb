@@ -1,6 +1,7 @@
 Imports System
 
 Module Program
+    Const iva As Integer = 21
     Sub Main(args As String())
         ' contador o incrementador
         Dim contador As UShort
@@ -20,11 +21,15 @@ Module Program
         Console.WriteLine(acumulador)
         ' división
         Console.WriteLine(25 / 10)
+        ' resto
         Console.WriteLine(25 \ 10)
         Console.WriteLine(25 Mod 10)
         ' exponenciacion
         Console.WriteLine(5 ^ 2)
         Console.WriteLine(5 ^ 5)
+
+        Console.WriteLine("Impuestos con constante: " & 1000 * iva / 100)
+
         ' conversion
         Dim a As Byte = 200
         Dim b As Single
