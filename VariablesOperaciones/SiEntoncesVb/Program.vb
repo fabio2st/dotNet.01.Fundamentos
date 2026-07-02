@@ -22,5 +22,24 @@ Module Program
         Else
             Console.WriteLine("Es cero")
         End If
+
+        Dim value = If(a > 0, "Es positivo", If(a < 0, "Es negativo", "Es cero"))
+        Console.WriteLine(value)
+
+        Dim b As Short = Convert.ToInt16(Console.ReadLine())
+        Dim c As Short = Convert.ToInt16(Console.ReadLine())
+
+        If a > b AndAlso a > c Then
+            Console.WriteLine("A es mayor que b y c")
+        End If
+
+        If a > b OrElse a > c Then
+            Console.WriteLine("A es mayor que b o c")
+        End If
+
+        If (a > c OrElse a > b) AndAlso b > c Then
+            Console.WriteLine("resultado esperado")
+        End If
+
     End Sub
 End Module
