@@ -10,7 +10,7 @@ Module Program
         Select Case valor
             Case 1
                 Console.WriteLine("Es uno")
-
+                Throw New Exception()
             Case 2
                 Console.WriteLine("Es dos")
 
