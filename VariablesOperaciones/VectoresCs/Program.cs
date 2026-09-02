@@ -6,12 +6,16 @@ namespace VectoresCs
     {
         public static void Main(string[] args)
         {
-            var valores = NuevoArray();
+			ushort[] valores = NuevoArray();
             IterarArrayFor(valores);
             ModificarElementos(valores);
             IterarArrayFor(valores);
             ArrayDeclaracionAsignacionSimultanea();
-            var matriz = NuevoArray2Dimensiones();
+
+            valores = RedimArray(valores);
+            IterarArrayFor(valores);
+
+            float[,] matriz = NuevoArray2Dimensiones();
             IterarArrayForEach(matriz);
 
             // declara y asigna un vector de 2 x 3
@@ -19,10 +23,10 @@ namespace VectoresCs
             IterarArrayForEach(grid1);
             VerInfoArray(grid1);
             IterarArray2Dimensiones(grid1);
-            ArryaMultidimensional();
+            ArrayMultidimensional();
         }
 
-        private static void ArryaMultidimensional()
+        private static void ArrayMultidimensional()
         {
             // array multidimensional
             var grid2 = new[, ,] { { { 1, 2 }, { 3, 4 }, { 5, 6 } }, { { 7, 8 }, { 9, 10 }, { 11, 12 } }, { { 13, 14 }, { 15, 16 }, { 17, 18 } }, { { 19, 20 }, { 21, 22 }, { 23, 24 } } };
@@ -46,13 +50,15 @@ namespace VectoresCs
         {
             Console.WriteLine("Longitud: " + grid1.Length);
             Console.WriteLine("Ultima posición Dimension 0: " + grid1.GetUpperBound(0));
-            Console.WriteLine("Ultima posición Dimension 1: " + grid1.GetUpperBound(1));
+            Console.WriteLine("Ultima posición Dimension 0: " + grid1.GetUpperBound(0));
+            Console.WriteLine("Longitud Dimension 1: " + grid1.GetLength(0));
+            Console.WriteLine("Longitud Dimension 1: " + grid1.GetLength(1));
         }
 
         private static float[,] NuevoArray2Dimensiones()
         {
-            // declara un array de 2 dimensiones 3 x 2
-            var matriz = new float[3, 2];
+			// declara un array de 2 dimensiones 3 x 2
+			float[,] matriz = new float[3, 2];
             // asignación de los valores uno por uno
             matriz[0, 0] = 1f;
             matriz[0, 1] = 2f;
@@ -67,7 +73,7 @@ namespace VectoresCs
         {
             // iteración sobre el vector para alterar el valor de todos los elementos
             for (int x = 0, loopTo = valores.Length - 1; x <= loopTo; x++)
-                // Console.WriteLine(valores(x))
+                //Console.WriteLine(valores[x]);
                 valores[x] *= valores[x];
         }
 
@@ -110,6 +116,13 @@ namespace VectoresCs
             foreach (var valor in grid)
                 Console.Write(valor + " ");
             Console.WriteLine();
+        }
+
+        public static ushort[] RedimArray(ushort[] valores)
+        {
+            Array.Resize(ref valores, valores.Length-1);
+            Array.Resize(ref valores, valores.Length+2);
+            return valores;
         }
     }
 }
