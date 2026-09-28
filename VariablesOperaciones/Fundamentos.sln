@@ -85,6 +85,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColeccionDiccionario", "Col
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColeccionDiccionarioOrdenado", "ColeccionDiccionarioOrdenado\ColeccionDiccionarioOrdenado.csproj", "{2994B749-E8A7-4698-A4F6-48DBCA6EF376}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColeccionVectorOrdenado", "ColeccionVectorOrdenado\ColeccionVectorOrdenado.csproj", "{BB1199BD-3EA5-4DCE-A925-96500912EFCF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -255,6 +257,10 @@ Global
 		{2994B749-E8A7-4698-A4F6-48DBCA6EF376}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2994B749-E8A7-4698-A4F6-48DBCA6EF376}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2994B749-E8A7-4698-A4F6-48DBCA6EF376}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB1199BD-3EA5-4DCE-A925-96500912EFCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB1199BD-3EA5-4DCE-A925-96500912EFCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB1199BD-3EA5-4DCE-A925-96500912EFCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB1199BD-3EA5-4DCE-A925-96500912EFCF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
