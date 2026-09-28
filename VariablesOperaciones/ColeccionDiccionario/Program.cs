@@ -41,6 +41,7 @@
                 //kvp.Value = "Nuevo valor"; // No se puede modificar el valor asociado a la clave
             }
 
+            fileTypes[null] = "nada"; // Error en tiempo de ejecución
         }
 
         private static void isValidKey(Dictionary<string, string> fileTypes, string extension)
