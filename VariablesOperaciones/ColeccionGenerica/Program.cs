@@ -22,7 +22,7 @@ namespace ColeccionGenerica
 			int Sum = 0;
 			foreach (var item in lista)
 			{
-				Sum += Convert.ToInt32(item);
+				Sum += item;
 			}
 
 			Console.WriteLine($"Suma es {Sum}");
@@ -42,6 +42,7 @@ namespace ColeccionGenerica
 			// iterar con índice
 			for (int index = 0; index < paises.Count; index++)
 			{
+				Console.WriteLine(paises.ElementAt(index));
 				Console.WriteLine(paises[index]);
 			}
 
