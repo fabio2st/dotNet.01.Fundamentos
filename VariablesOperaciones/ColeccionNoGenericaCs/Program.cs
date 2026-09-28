@@ -5,19 +5,30 @@ namespace ColeccionNoGenericaCs
 	internal class Program
 	{
 		static void Main(string[] args)
-		{
-			ArrayList lista = new ArrayList();
-			lista.Add(1);
-			lista.Add(2);
-			lista.Add("3");
+        {
+            ArrayList lista = new ArrayList();
+            lista.Add(1);
+            lista.Add(2);
+            lista.Add("3");
 
-			int Sum = 0;
-			foreach (var item in lista)
-			{
-				Sum += Convert.ToInt32(item);
-			}
+            MostrarSuma(lista);
 
-			Console.WriteLine($"Suma es {Sum}");
-		}
-	}
+            // kabooom
+            //lista.Add("Cuatro");
+            //MostrarSuma(lista);
+        }
+
+        private static void MostrarSuma(ArrayList lista)
+        {
+            int Sum = 0;
+            Console.WriteLine("Sumando");
+            foreach (var item in lista)
+            {
+                Console.WriteLine(item);
+                Sum += Convert.ToInt32(item);
+            }
+
+            Console.WriteLine($"Suma es {Sum}");
+        }
+    }
 }
