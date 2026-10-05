@@ -93,6 +93,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColeccionFIFO", "ColeccionF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColeccionLIFO", "ColeccionLIFO\ColeccionLIFO.csproj", "{D36715BD-DB9D-4759-9267-EE98519BE8B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColeccionConjuntoOrdenado", "ColeccionConjuntoOrdenado\ColeccionConjuntoOrdenado.csproj", "{6D2CE12F-3AAA-4F96-BAF8-35422E112D4A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -279,6 +281,10 @@ Global
 		{D36715BD-DB9D-4759-9267-EE98519BE8B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D36715BD-DB9D-4759-9267-EE98519BE8B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D36715BD-DB9D-4759-9267-EE98519BE8B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D2CE12F-3AAA-4F96-BAF8-35422E112D4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D2CE12F-3AAA-4F96-BAF8-35422E112D4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D2CE12F-3AAA-4F96-BAF8-35422E112D4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D2CE12F-3AAA-4F96-BAF8-35422E112D4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
