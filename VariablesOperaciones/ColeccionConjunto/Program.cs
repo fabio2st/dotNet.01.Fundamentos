@@ -9,13 +9,13 @@
             extensiones.Add("jpg");
             extensiones.Add("png");
             extensiones.Add("jpg");  // ignorado silenciosamente
-            extensiones.Add("jpg");  // ídem
+            extensiones.Add("png");  // ídem
 
             Console.WriteLine(extensiones.Count);  // 2 — nunca 3 ni 4
 
             // devuelve true si lo agregó, false si ya existía
             bool nuevo = extensiones.Add("gif");   // true
-            bool repetido = extensiones.Add("gif");   // false
+            nuevo = extensiones.Add("gif");   // false
 
             HashSet<string> programas = new() { "Word.exe", "Notepad.exe", "Paint.exe" };
 
@@ -34,11 +34,11 @@
             HashSet<string> set = new() { "jpg", "png", "gif" };
             HashSet<string> web = new() { "jpg", "png", "webp" };
 
-            // Métodos que modifican 'set' directamente (más eficientes)
-            set.IntersectWith(web);       // set queda: { jpg, png }
-            set.UnionWith(web);           // set queda: { jpg, png, webp }
-            set.ExceptWith(web);          // set queda: { gif }
-            set.SymmetricExceptWith(web); // set queda: { gif, webp }
+            set.IntersectWith(web);       // Intersección: los que estan en ambos, set queda: { jpg, png }
+            set.UnionWith(web);           // Unión: suma ambos sin repetir, set queda: { jpg, png, webp }
+            set.Add("gif");
+            set.ExceptWith(web);          // Diferencia: quedan los que no se repiten, set queda: { gif }
+            set.SymmetricExceptWith(web); // set queda: { png, gif, gif, webp }
 
             List<string> extensionesConRepetidos = new()
             {
