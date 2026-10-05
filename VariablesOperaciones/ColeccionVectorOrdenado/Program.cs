@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, SortedList!");
-            SortedList<string, string> fileTypes = new SortedList<string, string>(capacity: 6);
+            SortedList<string, string> fileTypes = new SortedList<string, string>(capacity: 10);
 
             fileTypes["bmp"] = "Paint.exe";
             fileTypes["txt"] = "Notepad.exe";
@@ -14,6 +14,14 @@
 
             // A diferencia de Dictionary, las claves siempre
             // se muestran en orden alfabético ascendente
+            Console.WriteLine("\nMostrar todas las claves (ordenadas alfabéticamente)");
+            foreach (var key in fileTypes.Keys)
+                Console.WriteLine($"{key}");
+
+            Console.WriteLine("Mostrar todos los valores");
+            foreach (var value in fileTypes.Values)
+                 Console.WriteLine($"{value}");
+
             var extension = "rtf";
             Console.WriteLine("El programa para el archivo {0} es {1}", extension, fileTypes[extension]);
 
@@ -36,13 +44,6 @@
             int indiceValor = fileTypes.IndexOfValue("Notepad.exe");
             Console.WriteLine($"'Notepad.exe' está en la posición: {indiceValor}");
 
-            Console.WriteLine("\nMostrar todas las claves (ordenadas alfabéticamente)");
-            foreach (var key in fileTypes.Keys)
-                Console.WriteLine($"{key}");
-
-            Console.WriteLine("Mostrar todos los valores");
-            foreach (var value in fileTypes.Values)
-                Console.WriteLine($"{value}");
 
             fileTypes.Add("pdf", "Foxit Reader");
 
